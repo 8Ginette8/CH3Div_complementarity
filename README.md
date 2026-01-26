@@ -25,16 +25,18 @@ The Core Area Zonation 2 (CAZ2) marginal loss rule algorithm was here applied. T
 R (Linux), all scripts can also be run under windows except for the prioritization (Zonation) runs.
 
 #### Input data
-Calculating the complementarity indicator (CI) is dependent on species habitat suitability maps derived from the [SDMapCH](https://doi.org/10.1038/s41597-025-06037-x) dataset. Data is natively at 25 x 25 m resolution, however, for example feasibility and copyright reason, the available data was uploaded on GitHub at 50 x 50 km resolution.
+Calculating the complementarity indicator (CI) is dependent on species habitat suitability maps derived from the [SDMapCH](https://doi.org/10.1038/s41597-025-06037-x) dataset. **Data is natively at 25 x 25 m resolution**, however, for example feasibility and copyright reason, the available data was uploaded on GitHub at **10 x 10 km resolution**. For further usages and perfect reproducibility, The SDMapCH native database (v1.3) and associated metadata are openly available on [Dryad](https://doi.org/10.5061/dryad.stqjq2cdk).
 
 Also note that v1.0 of the TraitCH dataset was here used. A second version is now available folowing the same link at [Zenodo](https://doi.org/10.5281/zenodo.15063844).
 
-## File description
-- `python/biodiv_layer/group_elasticity_analysis.py`: Main script to calculate permeability and quality elasticities at the taxonomic group level for a given habitat (aquatic or terrestrial). See header on how to use it, or simply run `run_sensitivity_analysis.sh`.
-- `python/biodiv_layer/run_sensitivity_analysis.sh`: runs the `group_elasticity_analysis.py` scripts for each group and habitat.
-- `group_summed_elasticities.py`: Aggregates elasticities at the habitat level to calculate the habitat-specific Ecological connectivity importance score.
-- `calculate_metdata.py`: Generates a `.csv` file listing all species and associated dispersal range used in the calculation of the habitat-specific Ecological connectivity importance score.
-- `src/*`: Utility functions.
+## Scripts description
+- `open_r_windows.bat` and `open_r_maclinus.sh`: to open R in the right environment.
+
+From there, you can successively run the scripts:
+- `1_CH3Div_OToL_phylogenies.R`: pipeline to generate the phylogenies of our 17 taxonomic groups from the ['Open Tree of Life'](https://tree.opentreeoflife.org/opentree/argus/opentree16.1@ott93302) API. 
+- `2_CH3Div_Functional_trees.R`: pipeline to generate the functional trees of our taxonomic groups based on [TraitCH](https://doi.org/10.5281/zenodo.15063844) v1.0.
+- `3_CH3Div_Uniqueness_metrics.R`: pipeline to generate the species' indices of functional and phylogenetic uniqueness based on above.
+- `4_CH3Div_Zonation5_(linux_only).R`: linux pipeline to run the prioritization (Zonation 5) runs.
 
 ## Reference
 Adde, A., Rey, PL., Külling, N. et al. SDMapCH: a Comprehensive database of >7,500 modelled species habitat suitability maps for Switzerland. Sci Data 12, 1752 (2025). https://doi.org/10.1038/s41597-025-06037-x
