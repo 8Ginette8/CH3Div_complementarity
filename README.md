@@ -1,5 +1,5 @@
 
-# Complementary biodiversity conservation for Switzerland <img src="https://speed2zero.ethz.ch/wp-content/uploads/2023/02/SPEED2ZERO_Logo_trans.png" width="300" align="right">
+# Complementary (biodiversity) conservation for Switzerland <img src="https://speed2zero.ethz.ch/wp-content/uploads/2023/02/SPEED2ZERO_Logo_trans.png" width="300" align="right">
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15629783.svg)](https://doi.org/10.5281/zenodo.15629783)
 
