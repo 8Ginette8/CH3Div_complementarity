@@ -1,0 +1,6 @@
+"weight" "filename"
+0.456896551724138 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Epidalea.calamita_reg_covariate_ensemble.tif"
+0.280172413793103 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Hyla.arborea_reg_covariate_ensemble.tif"
+0.336206896551724 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Hyla.intermedia_reg_covariate_ensemble.tif"
+0.862068965517242 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Ichthyosaura.alpestris_reg_covariate_ensemble.tif"
+0.336206896551724 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Lissotriton.vulgaris_reg_covariate_ensemble.tif"

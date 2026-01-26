@@ -1,0 +1,5 @@
+"weight" "filename"
+1 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Emys.orbicularis_reg_covariate_ensemble.tif"
+1.11756276349754 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Natrix.maura_reg_covariate_ensemble.tif"
+0.617562763497539 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Natrix.tessellata_reg_covariate_ensemble.tif"
+1 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Trachemys.scripta_reg_covariate_ensemble.tif"

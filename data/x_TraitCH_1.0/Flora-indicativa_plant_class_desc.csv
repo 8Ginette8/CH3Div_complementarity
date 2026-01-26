@@ -1,0 +1,52 @@
+HABfi,Class
+1,waterbodies sensu lato (permanent or temporary)
+1.1,"still waters: lakes, small lakes"
+1.2,flowing water
+1.3,"aquatic habitat: banks, ponds, ditches, backwater, reedbeds, tall-sedge dominated wetlands, bog pools"
+1.4,"temporary flooded habitats with strongly varying moisture levels: pools, ditches, banks, cart tracks, wallows"
+2,"eutrophic terrestrial vegetation, natural or anthropogenic"
+2.1,"fields, cultivation, vineyards, olive groves, fallows"
+2.2,"ruderal and semi-ruderal places: tracks, dumpsites, landfill sites, dungheaps, claddings of walls and buildings, railway areas, embankments, trodden places, pavements"
+2.3,"hedges, forest edges, clearing edges"
+2.4,"livestock resting places, barns, sheepfolds, shallow caves "
+2.5,"river banks, river edges, alluvium, gravel bars"
+2.6,"clearings, forest roads, burned places"
+2.7,"parks, lawns, gardens, alleys, cemeteries, playing fields "
+2.8,"orchards, Chestnut plantations: Hochstamm (standard tree) and Niederstamm (bush tree) stands "
+2.9,cultivated plants
+3,"outcrops, sand, tuff, rocks, screes, gravel-pits, quarries"
+3.1,sandy outcrops
+3.2,"rocks and walls: rock faces, cliffs, walls, shallow caves, caves, bottom of rock faces "
+3.3,"screes sensu lato: screes, moraines, landslides, block screes"
+3.4,"grikes, karst places"
+3.5,"gravel-pits, quarries, clay-pits "
+4,"water sources, streams"
+4.1,"water sources, spring communities, rills, tufa, waterfalls, cascades"
+4.2,stream banks
+5,mires
+5.1,fens and transitional mires
+5.2,raised bogs
+6,"grasslands, meadows, swards, snow beds, herbaceous forest edges"
+6.1,mediterranean dry swards (annual swards) 
+6.2,"dry and semi-dry swards, meadows and pastures from the colline to the subalpine zone, steppe sward, rock swards, rock fields"
+6.3,mesotrophic to eutrophic moist meadows and pastures
+6.4,"meadows, pastures and swards on moist, acidic, nutrient-poor substrate"
+6.5,"subalpine/alpine swards sensu lato, also rock swards"
+6.6,snow beds
+6.7,thermophilous forest edges
+7,"dwarf shrub stands, tall herb communities, garrigues, shrubberies sensu lato"
+7.1,dwarf shrub stands sensu lato
+7.2,"tall herb communities, nitrophilous communities, fern stands"
+7.3,"low garrigue, low maquis"
+7.4,"shrubberies, hedges, forest edges, scrub, early successional forest stages"
+7.5,short willow scrub along rivers
+7.6,tall mediterranean shrubs
+8,shrubland sensu lato
+8.1,"green alder scrub, subalpine widow scrubs"
+8.2,dwarf (Swiss) mountain pine stands
+9,forests
+9.1,coniferous forests
+9.2,mesophyllous deciduous forests 
+9.3,submediterranean thermophilous oak – and hop-hornbeam forests 
+9.4,mediterranean evergreen oak forests
+9.5,plantations of and secondary forests with black locust

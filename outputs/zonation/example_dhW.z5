@@ -1,0 +1,4 @@
+feature list file = feature_list.txt
+hierarchic mask layer = ../data/hierarchic_mask.tif
+weight groups file = weight_groups.txt
+single-feature connectivity link file = connectivity_link.txt

@@ -1,0 +1,19 @@
+"names.traits" "names.maps" "Group" "Ter" "Aqu" "PhyloUniqueness" "FunctionUniqueness" "Restrictedness"
+"Alytes obstetricans" "Alytes.obstetricans" "amphibians" 1 1 0.0869565217391304 0.560344827586207 0.736714975845411
+"Bombina variegata" "Bombina.variegata" "amphibians" 1 1 0.0869565217391304 0.627586206896552 0.719806763285024
+"Bufo bufo" "Bufo.bufo" "amphibians" 1 1 0.0434782608695652 0.112068965517241 0.568840579710145
+"Epidalea calamita" "Epidalea.calamita" "amphibians" 1 0 0.0434782608695652 0.456896551724138 0.786231884057971
+"Hyla arborea" "Hyla.arborea" "amphibians" 1 0 0.0434782608695652 0.280172413793103 0.777777777777778
+"Hyla intermedia" "Hyla.intermedia" "amphibians" 1 0 0.0434782608695652 0.336206896551724 0.973429951690821
+"Ichthyosaura alpestris" "Ichthyosaura.alpestris" "amphibians" 1 0 0.173913043478261 0.112068965517241 0.559178743961353
+"Lissotriton helveticus" "Lissotriton.helveticus" "amphibians" 1 1 0.0434782608695652 0 0.719806763285024
+"Lissotriton vulgaris" "Lissotriton.vulgaris" "amphibians" 1 0 0.0434782608695652 0.336206896551724 0.817632850241546
+"Pelophylax esculentus" "Pelophylax.esculentus" "amphibians" 0 1 0.217391304347826 0.179310344827586 0.702898550724638
+"Pelophylax ridibundus" "Pelophylax.ridibundus" "amphibians" 1 1 0.217391304347826 0.878620689655172 0.768115942028985
+"Rana dalmatina" "Rana.dalmatina" "amphibians" 1 1 0.0434782608695652 0.448275862068965 0.876811594202899
+"Rana latastei" "Rana.latastei" "amphibians" 1 1 0.0434782608695652 0.336206896551724 0.998792270531401
+"Rana temporaria" "Rana.temporaria" "amphibians" 1 1 0.0869565217391304 0.280172413793103 0.516908212560387
+"Salamandra atra" "Salamandra.atra" "amphibians" 1 1 0.0434782608695652 1 0.729468599033816
+"Salamandra salamandra" "Salamandra.salamandra" "amphibians" 1 1 0.0434782608695652 0.560344827586207 0.667874396135266
+"Triturus carnifex" "Triturus.carnifex" "amphibians" 1 1 0.0434782608695652 0 0.955314009661836
+"Triturus cristatus" "Triturus.cristatus" "amphibians" 1 1 0.0434782608695652 0.336206896551724 0.842995169082126

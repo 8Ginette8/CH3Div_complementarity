@@ -1,0 +1,325 @@
+Code_HAB,ID_HAB,english_name,nom_français,eunis
+1,1,Open waters,Eaux libres,
+1.-1,11,Calm waters,Eaux calmes,
+1.-1.0,110,Water without vegetation,Eau sans végétation,
+1.-1.0.1,1101,Deep water (limnetic zone),Eau profonde (zone limnétique),
+1.-1.0.2,1102,Shallow water (incl. temporary ponds),Eau peu profonde (incl. mares temporaires),
+1.-1.1,111,Water with non-vascular submerged vegetation,Eau avec végétation immergée non vasculaire,C1.1;C1.25;C1.4;C2.19
+1.-1.2,112,Water with vascular submerged vegetation,Eau avec végétation immergée vasculaire,C1.1;C1.33;C1.4
+1.-1.3,113,Water with free-floating vegetation,Eau avec végétation flottante libre,C1.222;C1.223;C1.224;C1.32
+1.-1.3.1,1131,Hydrocharition,Hydrocharition,C1.222
+1.-1.3.2,1132,Utricularion,Utricularion,C1.224
+1.-1.4,114,Water with fixed-floating vegetation,Eau avec végétation flottante fixée,C1.1;C1.3411;C1.3413;C1.4
+1.-1.4.1,1141,Ranunculion aquatilis,Ranunculion aquatilis,C1.3411
+1.-1.4.2,1142,Hottonietum,Hottonietum,C1.3413
+1.-2,12,Flowing waters,Eaux courantes,
+1.-2.1,121,Bream and barbel zone (epipotamon),Zone de la brême et du barbeau (épipotamon),C2.18;C2.1A;C2.1B;C2.33;C2.34
+1.-2.1.1,1211,Large lowland rivers,Grands cours d'eau de plaine,
+1.-2.1.2,1212,Small slow-flowing lowland streams,Petit cours d'eau de plaine à écoulement lent,
+1.-2.2,122,Grayling zone (hyporhitron),Zone de l'ombre (hyporhitron),C2.18;C2.1A;C2.1B;C2.25;C2.26;C2.27;C2.28
+1.-2.2.0,1220,"Grayling zone, without vegetation","Zone de l'ombre, sans végétation",
+1.-2.2.1,1221,"Grayling zone, with vegetation","Zone de l'ombre, avec végétation",
+1.-2.3,123,Lower trout zone (metarhitron),Zone inférieure de la truite (métarhitron),C2.18;C2.25;C2.26;C2.27;C2.28
+1.-2.4,124,Upper trout zone (epirhitron),Zone supérieure de la truite (épirhitron),C2.18;C2.25;C2.26;C2.27
+1.-2.5,125,Temporary water,Eau temporaire,
+1.-2.6,126,Glacial stream (Kryal),Ruisseau glaciaire (Kryal),
+1.-3,13,Springs and seepages,Sources et suintements,
+1.-3.0,130,"Surface flow, seepage without vegetation","Ecoulement superficiel, suintement sans végétation",
+1.-3.0.1,1301,Alluvial spring,Source alluviale,
+1.-3.1,131,Vegetation of moist calcareous rocks,Végétation des rochers calcaires humides,
+1.-3.2,132,Vegetation of alkaline springs,Végétation des sources alcalines,C2.12;C2.19
+1.-3.3,133,Vegetation of acidic springs,Végétation des sources acides,
+1.-4,14,Groundwater,Eaux souterraines,
+1.-4.1,141,Interstitial environment of sediments (alluvial and parafluvial aquifers),Milieu interstitiel des sédiments (nappes alluviales et parafluviales),
+1.-4.2,142,Fissured environment,Milieu fissural,
+1.-4.3,143,Underground river,Rivière souterraine,
+1.-4.4,144,Underground lake,Lac souterrain,
+2,2,Shorelines and wetlands,Rivages et lieux humides,
+2.-0,20,Artificial banks,Rives artificielles,
+2.-0.0,200,Artificial banks without vegetation,Rives artificielles sans végétation,
+2.-0.1,201,Artificial banks with vegetation,Rives artificielles avec végétation,
+2.-1,21,Banks with vegetation,Rivages avec végétation,
+2.-1.1,211,Flooded depression with bladderworts,Dépression inondée à utriculaires,C1.1;C1.4
+2.-1.2,212,Reedbed,Roselière,
+2.-1.2.1,2121,Lacustrine reedbed,Roselière lacustre,
+2.-1.2.2,2122,Terrestrial reedbed,Roselière terrestre,
+2.-1.3,213,Temporary gravel bar vegetation,Végétation temporaire des grèves,C3.41
+2.-1.4,214,Vegetation of running water banks,Végétation des rives d'eau courante,CD1c
+2.-2,22,Fens,Bas-marais,
+2.-2.1,221,Magnocaryx fen,Magnocariçaie,
+2.-2.1.1,2211,Magnocaryx fen s.str.,Magnocariçaie s.str.,D5.2
+2.-2.1.2,2212,Marsh sedge formation,Formation à marisque,D5.2
+2.-2.2,222,Acidic small-sedge fen,Parvocariçaie acidophile,
+2.-2.3,223,Neutral-basophilic small-sedge fen,Parvocariçaie neutro-basophile,D4.1
+2.-2.4,224,Transition sedge fen,Cariçaie de transition,C1.4;D1.11;D2.3
+2.-2.5,225,Pioneer group of alpine torrent edges,Groupement pionnier des bords de torrents alpins,D4.2
+2.-3,23,Wet meadows,Prairies humides,
+2.-3.1,231,Molinia meadow,Prairie à molinie,E3.5
+2.-3.2,232,Cowslip meadow,Prairie à populage,E3.4
+2.-3.3,233,Marshy tall-herb vegetation,Mégaphorbiée marécageuse,E5.4
+2.-4,24,Raised bog,Tourbière bombée,
+2.-4.1,241,Sphagnum bog,Tourbière à sphaignes,D1.11;X04
+2.-5,25,Annual vegetation temporarily flooded,Végétation annuelle temporairement inondée,
+2.-5.0,250,Annual vegetation temporarily flooded without vegetation,Végétation anuelle temporairement inondée sans végétation,
+2.-5.1,251,Small ephemeral annual vegetation,Végétation de petites annuelles éphémères,C3.51
+2.-5.1.1,2511,Dwarf communities of freshwater with Eleocharis,Communautés naines des eaux douces à Eleocharis,C3.511
+2.-5.1.2,2512,Lawns with small Cyperus,Gazons à petits Cyperus,C3.5132
+2.-5.1.3,2513,Dwarf communities of moist herbaceous substrates,Communautés naines des substrats humides à herbacées,C3.5133
+2.-5.2,252,Vegetation of large nitrophilous annuals,Végétation de grandes annuelles nitrophiles,
+3,3,"Glaciers, rocks, screes, and moraines","Glaciers, rochers, éboulis et moraines",
+3.-1,31,"Glaciers, snowfields","Glaciers, névés",
+3.-1.1,311,Glacier,Glacier,H4.2
+3.-1.2,312,Rock glacier,Glacier rocheux,H4.3
+3.-1.3,313,High-altitude snowfield (summer),Névé d'altitude (été),
+3.-1.4,314,Spring snow patch,Plaque de neige au printemps,
+3.-2,32,Alluvium and moraines,Alluvions et moraines,
+3.-2.1,321,Alluvium,Alluvions,
+3.-2.1.0,3210,Alluvium without vegetation,Alluvions sans végétation,
+3.-2.1.1,3211,Alluvium with pioneer herbaceous vegetation,Alluvions avec végétation pionnière herbacée,C3.55
+3.-2.2,322,Moraine,Moraine,
+3.-2.2.0,3220,Moraine without vegetation,Moraine sans végétation,
+3.-2.2.1,3221,Moraine with pioneer vegetation,Moraine avec végétation pionnière,
+3.-3,33,Screes,Eboulis,
+3.-3.1,331,Calcareous rock scree,Eboulis de roche calcaire,
+3.-3.1.1,3311,Calcareous scree without vascular vegetation,Eboulis calcaire sans végétation vasculaire,
+3.-3.1.2,3312,High-altitude calcareous scree (hard rock),Eboulis calcaire d'altitude (roche dure),H2.4
+3.-3.1.3,3313,High-altitude calcareous schist scree,Eboulis de calcschistes d'altitude,H2.4
+3.-3.1.4,3314,Moist calcareous scree,Eboulis calcaire humide,H2.4
+3.-3.1.5,3315,Thermophilic calcareous scree,Eboulis calcaire thermophile,H2.6
+3.-3.2,332,Siliceous rock scree,Eboulis de roche siliceuse,
+3.-3.2.1,3321,Siliceous scree without vascular vegetation,Eboulis siliceux sans végétation vasculaire,
+3.-3.2.2,3322,High-altitude siliceous scree,Eboulis siliceux d'altitude,
+3.-3.2.3,3323,Thermophilic siliceous scree,Eboulis siliceux thermophiles,
+3.-4,34,Rocky walls,Parois rocheuses,
+3.-4.1,341,Calcareous rock wall,Paroi de roche calcaire,
+3.-4.1.1,3411,Calcareous wall without vascular vegetation,Paroi calcaire sans végétation vasculaire,H3.2
+3.-4.1.2,3412,Sunny calcareous wall with vascular vegetation,Paroi calcaire ensoleillée avec végétation vasculaire,H3.2
+3.-4.1.3,3413,Shaded calcareous wall with vascular vegetation,Paroi calcaire ombragée avec végétation vasculaire,H3.2
+3.-4.2,342,Siliceous rock wall,Paroi de roche siliceuse,
+3.-4.2.1,3421,Siliceous wall without vascular vegetation,Paroi siliceuse sans végétation vasculaire,H3.1
+3.-4.2.2,3422,Siliceous wall with vascular vegetation,Paroi siliceuse avec végétation vasculaire,H3.1
+3.-4.2.3,3423,Vegetation of serpentine rocks,Végétation des rochers de serpentine,H3.2
+3.-5,35,Dark caves and caverns,Grottes et cavernes obscures,H1
+3.-5.1,351,Buried stone zone (endogean fauna),Zone de la pierre enfoncée (faune endogée),
+3.-5.2,352,Burrow,Terrier,
+3.-5.3,353,Cave entrance,Entrée de grotte,
+3.-5.4,354,Guano deposit,Dépôt de guano,
+3.-5.5,355,Artificial cavity with human influences,Cavité artificielle avec influences humaines,
+3.-5.6,356,"Deep environment, clay deposits","Milieu profonde, dépôts d'argile",
+3.-5.7,357,"Deep environment, hard rock","Milieu profonde, roche dure",
+4,4,Lawns and meadows,Pelouses et prairies,
+4.-0,40,Artificial lawns and meadows,Gazons et prairies artificielles,
+4.-0.1,401,Temporary meadow on arable land,Prairie temporaire sur terre assolée,
+4.-0.2,402,"Artificial lawn for sports fields, urban areas, etc.","Gazon artificiel terrains de sport, milieu urbain, etc.",
+4.-0.3,403,"Sowing after terracing at low altitude (road embankments, etc.)","Ensemencement après terrassement à basse altitude (talus de route, etc.)",
+4.-0.4,404,"Sowing after terracing at high altitude (ski slopes, etc.)","Ensemencement après terrassement à haute altitude (piste de ski, etc.)",
+4.-1,41,Rock slabs and lapies,Dalles rocheuses et lapiez,
+4.-1.1,411,Vegetation of low-altitude calcareous slabs,Végétation des dalles calcaires de basse altitude,E1.11;E1.12
+4.-1.2,412,Vegetation of mountain calcareous slabs and lapies,Végétation des dalles calcaires et lapiez de montagne,H3.511
+4.-1.3,413,Vegetation of low-altitude siliceous slabs,Végétation des dalles siliceuses de basse altitude,E1.11;E1.9
+4.-1.4,414,Vegetation of mountain siliceous slabs,Végétation des dalles siliceuses de montagne,E1.11
+4.-2,42,Dry thermophilic grasslands,Pelouses sèches thermophiles,
+4.-2.1,421,"Dry thermophilic grasslands (continental climate, central Valais and Grisons)","Pelouses sèches thermophiles (climat continental, Valais central et Grison)",
+4.-2.1.1,4211,Steppe grassland,Pelouse steppique,
+4.-2.1.1,42111,Steppe grassland of the western Alps,Pelouse steppique des Alpes occidentales,E1.2
+4.-2.1.1,42112,Steppe grassland of the eastern Alps,Pelouse steppique des Alpes orientales,
+4.-2.1.2,4212,Continental semi-dry grassland,Pelouse mi-sèche continentale,E1.2
+4.-2.2,422,Meso-European dry grassland,Pelouse sèche médio-européenne,E1.2
+4.-2.3,423,Insubrian dry grassland,Pelouse sèche insubrienne,E1.2
+4.-2.4,424,Meso-European semi-dry grassland,Pelouse mi-sèche médio-europénne,E1.2
+4.-3,43,Poor high-altitude grasslands and pastures,Pelouses et pâturages maigres d'altitude,
+4.-3.1,431,Dry calcareous grassland with Sesleria,Pelouse calcaire sèche à seslerie,
+4.-3.1.1,4311,Dry calcareous grassland with Sesleria s.str.,Pelouse calcaire sèche à seslerie s.str.,E4.4
+4.-3.1.2,4312,Calcareous grassland with Sesleria and austroalpine sedge,Pelouse calcaire à seslérie et  laiche austroalpine,E4.4
+4.-3.2,432,Dry calcareous grassland with firm sedge,Pelouse calcaire sèche à laiche ferme,E4.4
+4.-3.3,433,Fresh calcareous grassland,Pelouse calcaire fraîche,E4.4
+4.-3.4,434,Wind-blown crest grassland,Gazon des crêtes ventées,E4.4
+4.-3.5,435,Poor acidic pasture,Pâturage maigre acide,E4.3
+4.-3.6,436,Acidic rocky grassland,Pelouse rocheuse acide,
+4.-3.6.1,4361,Acidic rocky grassland with Festuca pallens s.str.,Pelouse rocheuse acide à fétuque bigarrée s.str.,E4.3
+4.-3.6.2,4362,Acidic rocky grassland with Poa alpina,Pelouse rocheuse acide à pâturin violet,E4.3
+4.-3.6.3,4363,Acidic rocky grassland with Festuca paniculata,Pelouse rocheuse acide à fétuque paniculée,E4.3
+4.-3.7,437,Acidic grassland of the upper alpine zone,Pelouse acide de l'étage alpin supérieur,E4.3
+4.-4,44,Snow beds,Combes à neige,
+4.-4.1,441,Calcareous snow bed,Combe à neige calcaire,E4.12
+4.-4.2,442,Acidic snow bed,Combe à neige acide,E4.11
+4.-5,45,Rich meadows,Prairies grasses,
+4.-5.1,451,Low-altitude hay meadow,Prairie de fauche de basse altitude,
+4.-5.1.1,4511,Cocksfoot meadow,Prairie à dactyle,E2.2
+4.-5.1.2,4512,Typical meadow with oatgrass,Prairie à fromental typique,E2.2
+4.-5.1.3,4513,Dry meadow with oatgrass,Prairie à fromental sécharde,E2.2
+4.-5.1.4,4514,Wet meadow with meadow foxtail,Prairie humide à vulpin,E2.2
+4.-5.2,452,Mountain hay meadow,Prairie de fauche de montagne,E2.3
+4.-5.3,453,Low and mid-altitude pasture,Pâturage de basse et moyenne altitude,X09
+4.-5.4,454,Subalpine and alpine rich pasture,Pâturage gras subalpin et alpin,
+4.-6,46,Grass-dominated fallows,Friches à graminées,
+4.-6.1,461,Quackgrass fallow,Friche à chiendent,
+4.-6.2,462,Brachypodium pinnatum fallow,Friche à Brachypodium pinnatum,
+4.-6.3,463,Arrhenatherum elatius fallow,Friche à Arrhenatherum elatius,
+4.-6.4,464,Molinia arundinacea fallow,Friche à Molinia arundinacea,
+4.-6.5,465,Calamagrostis varia fallow,Friche à Calamagrostis varia,
+5,5,"Shrubland, edges, and tall herbaceous vegetation","Landes, lisières et mégaphorbiaies",
+5.-1,51,Herbaceous edges (fringes),Lisières herbacées (ourlets),
+5.-1.0,510,Atypical fringe,Ourlet atypique,
+5.-1.1,511,Poor xerothermophilic fringe,Ourlet maigre xérothermophile,
+5.-1.2,512,Poor mesophilic fringe,Ourlet maigre mésophile,
+5.-1.3,513,Hygrophilic fringe of the plains,Ourlet hygrophile de plaine,E5.4
+5.-1.4,514,Hygrophilic fringe of the mountains,Ourlet hygrophile d'altitude,E5.4
+5.-1.5,515,Nitrophilic mesophilic fringe,Ourlet nitrophile mésophile,E5.4
+5.-2,52,"Tall-herb vegetation, forest clearings","Mégaphorbiaies, coupes forestières",
+5.-2.1,521,"Clearing, glade on neutral-basophilic soil","Coupe, clairière sur sol baso-neutrophile",
+5.-2.2,522,"Clearing, glade on acidic soil","Coupe, clairière sur sol acide",
+5.-2.3,523,Mesophilic mountain tall-herb meadow with grasses,Mégaphorbiaie de montagne mésophile à graminées,E5.5
+5.-2.4,524,Hygrophilic mountain tall-herb meadow with Adenostyles alliariae,Mégaphorbiaie de montagne hygrophile à Adenostyles alliariae,E5.5
+5.-2.5,525,Tall-herb vegetation with Pteridium aquilinum,Mégaphorbiaie à Pteridium aquilinum,E5.5
+5.-3,53,"Shrub formations (mantle, thickets, hedges)","Formations buissonnantes (manteau, fourrés, haies)",
+5.-3.0,530,Artificial plantation,Plantation artificielle,
+5.-3.0.1,5301,Deciduous plantation,Plantation artificielle à feuilles caduques,
+5.-3.0.2,5302,Evergreen plantation,Plantation artificielle à feuilles persistantes,
+5.-3.1,531,Acidic thermophilic bushes,Buissons thermophiles sur sol acide,
+5.-3.2,532,Neutral to alkaline xerothermophilic bushes,Buissons xérothermophiles sur sol neutre à alcalin,F3.12;F3.16
+5.-3.3,533,Mesophilic bushes,Buissons mésophiles,
+5.-3.4,534,Blackberry thicket (Rubus fructicosus s.l.),Roncier à Rubus fructicosus s.l.,
+5.-3.5,535,Pre-forest shrub stage,Stade arbustif préforestier,
+5.-3.6,536,Alluvial willow thicket,Saulaie buissonnante alluviale,F9.1
+5.-3.7,537,Marshy willow thicket,Saulaie buissonnante marécageuse,
+5.-3.8,538,Subalpine willow thicket,Saulaie buissonnante subalpine,F2 32
+5.-3.9,539,Green alder stand,Aulnaie verte,
+5.-4,54,Heathlands,Landes,
+5.-4.1,541,Subatlantic acidic heathland,Lande subatlantique acidophile,E1.71;F4.2
+5.-4.1.1,5411,Subatlantic heathland on peat soil,Lande subatlantique sur sol tourbeux,
+5.-4.1.2,5412,Subatlantic heathland on non-peat soil,Lande subatlantique sur sol non tourbeux,
+5.-4.2,542,Continental juniper heathland,Lande continentale à genévrier sabine,
+5.-4.3,543,Subalpine calcicolous heathland,Lande subalpine calcicole,F2.41;F2.42
+5.-4.4,544,Subalpine xeric heathland on acidic soil,Lande subalpine xérophile sur sol acide,
+5.-4.5,545,Subalpine meso-hygrophilic heathland on acidic soil,Lande subalpine méso-hygrophile sur sol acide,F2 32
+5.-4.6,546,Windy alpine heathland,Lande alpine ventée,
+6,6,Forests,Forêts,
+6.-0,60,Plantations,Plantations,
+6.-0.1,601,Deciduous plantation,Plantation de feuillus,
+6.-0.2,602,Conifer plantation,Plantation de conifères,
+6.-0.3,603,Isolated tree,Arbre isolé,
+6.-1,61,Floodable forests,Forêts inondables,
+6.-1.1,611,Black alder forest,Aulnaie noire,
+6.-1.2,612,White willow forest,Saulaie blanche,G1.11
+6.-1.3,613,Alluvial alder forest,Aulnaie alluviale,G1.12
+6.-1.3.1,6131,Laurel willow forest,Saulaie laurier,G1.12
+6.-1.4,614,Humid ash forest,Frênaie humide,G1.21
+6.-2,62,Beech forests,Hêtraies,
+6.-2.1,621,Xerothermophilic beech forest,Hêtraie xérothermophile,G1.6
+6.-2.2,622,Acidic beech forest,Hêtraie acidophile,G1.6
+6.-2.3,623,Low-altitude mesophilic beech forest,Hêtraie mésophile de basse altitude,G1.6
+6.-2.3.1,6231,Atlantic beech forest,Hêtraie atlantique,G1.6
+6.-2.4,624,Mesophilic mountain beech forest (lower montane zone),Hêtraie mésophile de l'étage montagnard inférieur,G1.6
+6.-2.5,625,Beech-fir forest (montane zone),Hêtraie à sapins de l'étage montagnard,G1.6
+6.-3,63,Other deciduous forests,Autres forêts de feuillus,
+6.-3.1,631,Mesohygrophilic ravine maple forest,Erablaie de ravin méso-hygrophile,G1.A4
+6.-3.2,632,Thermophilic lime forest on scree or lapies,Tillaie thermophile sur éboulis ou lapiez,G1.A4
+6.-3.3,633,Hornbeam oak forest,Chênaie à charmes,G1.A1
+6.-3.4,634,Bushy oak forest,Chênaie buissonnante,G1.7
+6.-3.5,635,Bushy hop hornbeam forest of southern Alps,Ostryaie buissonnante du sud des Alpes,G1.7
+6.-3.6,636,Acidic oak forest,Chênaie acidophile,G1.8
+6.-3.7,637,Chestnut grove,Châtaigneraie,G1.7
+6.-3.8,638,Laurifoliate undergrowth forest,Forêt à sous-bois laurifolié,G1.7
+6.-3.9,639,Secondary forest of black locust,Forêt secondaire de robiniers,
+6.-4,64,Thermophilic pine forests,Pinèdes thermophiles,
+6.-4.1,641,Subatlantic pine forest on marl slopes,Pinède subatlantique des pentes marneuses,G3.44
+6.-4.2,642,Subcontinental basophilic pine forest,Pinède subcontinentale basophile,G3.44
+6.-4.2.1,6421,Meso-European subcontinental basophilic pine forest,Pinède subcontinentale basophile medioeuropéenne,
+6.-4.3,643,Continental xerophilic pine forest,Pinède continentale xérophile,G3.43
+6.-4.3.1,6431,Continental xerophilic pine forest on calcareous soil,Pinède continentale xérophile sur sol calcaire,
+6.-4.3.2,6432,Continental xerophilic pine forest on non-calcareous soil,Pinède continentale xérophile sur sol non calcaire,
+6.-4.4,644,Mesophilic pine forest on silica,Pinède mésophile sur silice,
+6.-5,65,Peat bog forests,Forêts de tourbières,
+6.-5.1,651,Birch forest on peat,Bétulaie sur tourbe,G1.51
+6.-5.2,652,Pine forest on peat,Pinède sur tourbe,G3.E
+6.-5.3,653,Spruce forest on peat,Pessière sur tourbe,G3.E
+6.-6,66,High-altitude conifer forests,Forêts de conifères d'altitude,
+6.-6.1,661,Spruce-fir forest,Pessière-sapinière,G3.1B;G3.1C
+6.-6.2,662,Spruce forest,Pessière,G3.1B;G3.1C
+6.-6.3,663,Larch and arolla pine forest,Forêt de mélèzes et d'aroles,G3.21;G3.22
+6.-6.4,664,Larch grove,Mélézein,
+6.-6.5,665,Mountain pine forest,Pinède de montagne,
+6.-6.5.1,6651,Acidic mountain pine forest,Pinède de montagne acidophile,G3.31;G3.32
+6.-6.5.2,6652,Basophilic mountain pine forest,Pinède de montagne basophile,G3.31;G3.32
+7,7,Pioneer vegetation of human-disturbed areas,Végétation pionnière des endroits perturbés par l'homme,
+7.-1,71,Trampled and ruderal areas,Terrains piétinés et rudéraux,
+7.-1.0,710,Trampled terrain and rubble without vegetation,Terrain piétiné et décombres dépourvus de végétation,
+7.-1.1,711,Wet trampled area,Endroit piétiné humide,
+7.-1.2,712,Dry trampled area,Endroit piétiné sec,
+7.-1.3,713,Subalpine or alpine trampled area,Endroit piétiné subalpin ou alpin,
+7.-1.4,714,Annual ruderal areas,Rudérales annuelles,
+7.-1.5,715,Thermophilic perennial ruderal areas,Rudérales pluriannuelles thermophiles,
+7.-1.6,716,Mesophilic perennial ruderal areas,Rudérales pluriannuelles mésophiles,
+7.-1.7,717,Subalpine or alpine livestock resting area,Reposoir à bétail subalpin ou alpin,E5.5
+7.-1.8,718,Low-altitude livestock resting area,Reposoir à bétail de basse altitude,
+7.-2,72,Anthropogenic rocky environments,Milieux rocheux anthropogènes,
+7.-2.0,720,Wall or pavement without vegetation,Mur ou pavement dépourvu de végétation,
+7.-2.1,721,Ruins or old walls,Ruine ou vieux mur,
+7.-2.2,722,Pavement,Pavement,
+8,8,"Plantations, fields, and crops","Plantations, champs et cultures",
+8.-1,81,Woody plant crops,Cultures de plantes ligneuses,
+8.-1.1,811,Deciduous nursery,Pépinière de feuillus,
+8.-1.2,812,Conifer nursery,Pépinière de conifères,
+8.-1.3,813,Chestnut orchard (without undergrowth),Verger de châtaigniers (sans sous-bois),
+8.-1.4,814,High-stem fruit orchard,Verger de fruitiers haute tige,
+8.-1.5,815,Low-stem fruit orchard,Verger de fruitiers basse tige,
+8.-1.6,816,Vineyard,Vigne,
+8.-1.7,817,Small fruits,Petits fruits,
+8.-2,82,Herbaceous plant crops,Cultures de plantes herbacées,
+8.-2.0,820,Herbaceous plant crop without vegetation,Culture de plantes herbacées sans végétation,
+8.-2.1,821,Cereal crops (baking varieties),Culture de céréales (panifiables),
+8.-2.1.0,8210,Cereals without weed vegetation,Céréales sans végétation adventice,
+8.-2.1.1,8211,Vegetation of acidic soils,Végétation ségétale des sols acides,
+8.-2.1.2,8212,Vegetation of carbonate soils,Végétation ségétale des sols carbonatés,
+8.-2.2,822,"Corn, tobacco, other large crops","Maïs, tabac, autres grandes cultures",
+8.-2.3,823,"Hoed crop, garden","Culture sarclée, jardin",
+8.-2.3.0,8230,Hoed crop without weed vegetation,Culture sarclée sans végétation adventice,
+8.-2.3.1,8231,Weed vegetation of neutral to acidic clay soils,Végétation adventice des sols argileux neutres à acides,
+8.-2.3.2,8232,Weed vegetation of calcareous clay soils,Végétation adventice des sols argileux calcaires,
+8.-2.3.3,8233,"Weed vegetation of light, neutral to acidic soils",Végétation adventice des sols légers neutres à acides,
+8.-2.3.4,8234,Weed vegetation of light calcareous soils,Végétation adventice des sols légers calcaires,
+9,9,Built environments,Milieux construits,
+9.-1,91,"Dumps, deposits","Décharges, dépôts",
+9.-1.1,911,Dump (inert materials),Décharge (matériaux inertes),
+9.-1.2,912,Dump (organic waste),Décharge (déchets organiques),
+9.-2,92,Building,Bâtiment,
+9.-2.1,921,Habitable building,Bâtiment habité,
+9.-2.1.1,9211,Farm,Ferme,
+9.-2.1.2,9212,Chalet,Chalet,
+9.-2.1.3,9213,Villa,Villa,
+9.-2.1.4,9214,Rental or commercial building,Immeuble locatif ou commercial,
+9.-2.2,922,"Livestock, cultivation facilities","Locaux d'élevage, de culture",
+9.-2.2.1,9221,"Stable, barn","Ecurie, étable",
+9.-2.2.2,9222,Pigsty,Porcherie,
+9.-2.2.3,9223,Chicken coop,Poulailler,
+9.-2.2.4,9224,Greenhouse,Serre,
+9.-2.3,923,"Outbuildings, shed, garage","Dépendances, hangar, garage",
+9.-2.3.1,9231,"Barn, small alpine hut","Grange, mazot",
+9.-2.3.2,9232,Garage,Garage,
+9.-2.3.3,9233,Boat shed,Hangar à bateau,
+9.-2.3.4,9234,Bunker,Bunker,
+9.-2.3.5,9235,"Shelter, forest house","Refuge, maison forestière",
+9.-2.4,924,"Factory, hall, warehouse","Usine, halle, entrepôt",
+9.-2.4.1,9241,Factory,Usine,
+9.-2.4.2,9242,Warehouse,Entrepôt,
+9.-2.4.3,9243,Power plant,Centrale électrice,
+9.-2.4.4,9244,Nuclear plant,Centrale nucleaire,
+9.-2.4.5,9245,Refinery,Raffinerie,
+9.-2.4.6,9246,"Sawmill, carpentry","Scierie, menuiserie",
+9.-2.5,925,"Public building, monument","Bâtiment public, monument",
+9.-2.5.1,9251,Castle,Château,
+9.-2.5.2,9252,Church,Église,
+9.-2.5.3,9253,Train station,Gare,
+9.-2.5.4,9254,Hospital,Hôpital,
+9.-3,93,Communication routes,Voies de communication,
+9.-3.2,932,Paved roads,Routes revêtues,
+9.-3.2.1,9321,Road,Route,
+9.-3.2.2,9322,Highway,Autoroute,
+9.-3.2.3,9323,"Non-vegetated path (concrete, gravel)","Chemin sans végétation (béton, caillasse)",
+9.-3.3,933,"Unpaved paths, trails","Chemin non revêtus, sentiers",
+9.-3.3.1,9331,Dirt road,Chemin de terre,
+9.-3.3.2,9332,Logging track,Piste de débardage,
+9.-3.3.3,9333,Path,Sentier,
+9.-3.4,934,Railway track,Voie ferrée,
+9.-4,94,"Paved sports field, parking lot","Terrain de sport revêtu, place de parc",

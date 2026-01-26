@@ -1,0 +1,8 @@
+"weight" "filename"
+0.0394450087272082 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Carterocephalus.palaemon_reg_covariate_ensemble.tif"
+0.00788900174544164 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Coenonympha.gardetta_reg_covariate_ensemble.tif"
+0.63789378055765 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Parnassius.phoebus_reg_covariate_ensemble.tif"
+0.0602079648437394 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Pyrgus.andromedae_reg_covariate_ensemble.tif"
+4.93062609090101e-05 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Pyrgus.cacaliae_reg_covariate_ensemble.tif"
+0.0835222174011655 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Pyrgus.malvae_reg_covariate_ensemble.tif"
+0.0853551440325529 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Pyrgus.malvoides_reg_covariate_ensemble.tif"

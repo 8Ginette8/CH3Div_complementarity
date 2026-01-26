@@ -1,0 +1,8 @@
+"weight" "filename"
+0.706266021354219 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Arvicola.amphibius_reg_covariate_ensemble.tif"
+1.06552566574055 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Castor.fiber_reg_covariate_ensemble.tif"
+1.08 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Lutra.lutra_reg_covariate_ensemble.tif"
+1.01880304319531 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Myocastor.coypus_reg_covariate_ensemble.tif"
+0.432682860371435 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Neomys.fodiens_reg_covariate_ensemble.tif"
+0.658803043195313 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Ondatra.zibethicus_reg_covariate_ensemble.tif"
+0.491416734228527 "C:\Users\chauviyo\OneDrive - Eidg. Forschungsanstalt WSL\gitlab\CH3Div_complementarity\data\SDMapCHv1_10km\10km_Rattus.norvegicus_reg_covariate_ensemble.tif"

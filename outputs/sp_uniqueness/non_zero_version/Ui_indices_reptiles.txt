@@ -1,0 +1,16 @@
+"names.traits" "names.maps" "Group" "Ter" "Aqu" "PhyloUniqueness" "FunctionUniqueness" "Restrictedness" "SummedUniqueness"
+"Anguis fragilis" "Anguis.fragilis" "reptiles" 1 0 0 0 0.567632850241546 0.198834315495864
+"Anguis veronensis" "Anguis.veronensis" "reptiles" 1 0 0 0.792306773111939 0.966183574879227 0.792306773111939
+"Coronella austriaca" "Coronella.austriaca" "reptiles" 1 0 0 0.342133319400558 0.589371980676328 0.342133319400558
+"Emys orbicularis" "Emys.orbicularis" "reptiles" 1 1 0 1 0.8756038647343 1
+"Hierophis viridiflavus" "Hierophis.viridiflavus" "reptiles" 1 0 0.25 0.30158220533816 0.898550724637681 0.55158220533816
+"Lacerta agilis" "Lacerta.agilis" "reptiles" 1 0 0 0.198834315495864 0.650966183574879 0.198834315495864
+"Lacerta bilineata" "Lacerta.bilineata" "reptiles" 1 0 0 0 0.859903381642512 0.198834315495864
+"Natrix helvetica" "Natrix.helvetica" "reptiles" 1 0 0.500000000000001 0.30158220533816 0.606280193236715 0.801582205338161
+"Natrix maura" "Natrix.maura" "reptiles" 1 1 0.500000000000001 0.617562763497539 0.955314009661836 1.11756276349754
+"Natrix natrix" "Natrix.natrix" "reptiles" 1 0 0 0.976868491176298 0.886473429951691 0.976868491176298
+"Natrix tessellata" "Natrix.tessellata" "reptiles" 0 1 0 0.617562763497539 0.868357487922705 0.617562763497539
+"Podarcis muralis" "Podarcis.muralis" "reptiles" 1 0 0.749999999999998 0.606312063387234 0.611111111111111 1.35631206338723
+"Trachemys scripta" "Trachemys.scripta" "reptiles" 0 1 0 1 0.996376811594203 1
+"Zamenis longissimus" "Zamenis.longissimus" "reptiles" 1 0 0 0.342133319400558 0.828502415458937 0.342133319400558
+"Zootoca vivipara" "Zootoca.vivipara" "reptiles" 1 0 1 0.198834315495864 0.524154589371981 1.19883431549586

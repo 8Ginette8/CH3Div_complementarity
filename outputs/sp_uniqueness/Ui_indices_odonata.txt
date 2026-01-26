@@ -1,0 +1,74 @@
+"names.traits" "names.maps" "Group" "Ter" "Aqu" "PhyloUniqueness" "FunctionUniqueness" "Restrictedness"
+"Aeshna affinis" "Aeshna.affinis" "odonata" 1 1 0.0602409638554217 0.236333522797043 0.832125603864734
+"Aeshna caerulea" "Aeshna.caerulea" "odonata" 1 1 0.120481927710843 0.346123099538072 0.760869565217391
+"Aeshna cyanea" "Aeshna.cyanea" "odonata" 1 1 0.0481927710843373 0.257846028862242 0.56280193236715
+"Aeshna grandis" "Aeshna.grandis" "odonata" 1 1 0.0120481927710843 0.428212812576295 0.690821256038647
+"Aeshna isoceles" "Aeshna.isoceles" "odonata" 1 1 0.120481927710843 0.236333522797043 0.783816425120773
+"Aeshna juncea" "Aeshna.juncea" "odonata" 1 1 0.036144578313253 0.257846028862242 0.592995169082126
+"Aeshna mixta" "Aeshna.mixta" "odonata" 1 1 0.0120481927710843 0.571929234911118 0.708937198067633
+"Aeshna subarctica subsp. elisabethae" "Aeshna.subarctica.elisabethae" "odonata" 1 1 0.0536229424741218 0.346123099538072 1
+"Anax ephippiger" "Anax.ephippiger" "odonata" 1 1 0.0120481927710843 0.460295761586194 0.951690821256039
+"Anax imperator" "Anax.imperator" "odonata" 1 1 0.0240963855421687 0.315721263210139 0.646135265700483
+"Anax parthenope" "Anax.parthenope" "odonata" 1 1 0.0120481927710843 0.315721263210139 0.730676328502415
+"Boyeria irene" "Boyeria.irene" "odonata" 1 1 0.144578313253012 0.652288717239015 0.989130434782609
+"Brachytron pratense" "Brachytron.pratense" "odonata" 1 1 0.132530120481928 0.32613191224673 0.828502415458937
+"Calopteryx splendens" "Calopteryx.splendens" "odonata" 1 1 0.0602409638554217 0.204079747151051 0.677536231884058
+"Calopteryx splendens subsp. caprai" "Calopteryx.splendens.caprai" "odonata" 1 1 0.0602409638554217 0.353263153092902 1
+"Calopteryx virgo" "Calopteryx.virgo" "odonata" 1 1 0.0602409638554217 0.204079747151051 0.98792270531401
+"Calopteryx virgo subsp. meridionalis" "Calopteryx.virgo.meridionalis" "odonata" 1 1 0.0602409638554217 0.459470067856807 1
+"Ceriagrion tenellum" "Ceriagrion.tenellum" "odonata" 1 1 0.180722891566265 0.329597390605395 0.914251207729469
+"Chalcolestes viridis" "Chalcolestes.viridis" "odonata" 1 1 0.0843373493975903 0.326061497359221 0.683574879227053
+"Coenagrion hastulatum" "Coenagrion.hastulatum" "odonata" 1 1 0.072289156626506 0.304570988194955 0.76207729468599
+"Coenagrion mercuriale" "Coenagrion.mercuriale" "odonata" 1 1 0.072289156626506 0.555141565524806 0.998792270531401
+"Coenagrion puella" "Coenagrion.puella" "odonata" 1 1 0.072289156626506 0.265790492505255 0.607487922705314
+"Coenagrion pulchellum" "Coenagrion.pulchellum" "odonata" 1 1 0.072289156626506 0.0654408374223039 0.810386473429952
+"Coenagrion scitulum" "Coenagrion.scitulum" "odonata" 1 1 0.072289156626506 0.265790492505255 0.846618357487923
+"Cordulegaster bidentata" "Cordulegaster.bidentata" "odonata" 1 1 0.0120481927710843 0.257370214326696 0.594202898550725
+"Cordulegaster boltonii" "Cordulegaster.boltonii" "odonata" 1 1 0.0120481927710843 0.257370214326696 0.688405797101449
+"Cordulia aenea" "Cordulia.aenea" "odonata" 1 1 0.0481927710843373 0.43301399026608 0.716183574879227
+"Crocothemis erythraea" "Crocothemis.erythraea" "odonata" 1 1 0.072289156626506 0.402156633326274 0.719806763285024
+"Enallagma cyathigerum" "Enallagma.cyathigerum" "odonata" 1 1 0.180722891566265 0.237695872608226 0.618357487922705
+"Epitheca bimaculata" "Epitheca.bimaculata" "odonata" 1 1 0.0602409638554217 0.428212812576295 0.998792270531401
+"Erythromma lindenii" "Erythromma.lindenii" "odonata" 1 1 0.0240963855421687 0.352888637108142 0.846618357487923
+"Erythromma najas" "Erythromma.najas" "odonata" 1 1 0.0240963855421687 0.338966162553542 0.992753623188406
+"Erythromma viridulum" "Erythromma.viridulum" "odonata" 1 1 0.0240963855421687 0.338966162553542 0.756038647342995
+"Gomphus pulchellus" "Gomphus.pulchellus" "odonata" 1 1 0.0120481927710843 0.260254211135419 0.829710144927536
+"Gomphus simillimus" "Gomphus.simillimus" "odonata" 1 1 0.0240963855421687 0.260254211135419 0.927536231884058
+"Gomphus vulgatissimus" "Gomphus.vulgatissimus" "odonata" 1 1 0.0120481927710843 0.282735718777274 0.805555555555556
+"Ischnura elegans" "Ischnura.elegans" "odonata" 1 1 0.0120481927710843 0.0654408374223039 0.672705314009662
+"Ischnura pumilio" "Ischnura.pumilio" "odonata" 1 1 0.0120481927710843 0.381498927257316 0.669082125603865
+"Lestes barbarus" "Lestes.barbarus" "odonata" 1 1 0.0481927710843373 0.222618632633314 0.82487922705314
+"Lestes dryas" "Lestes.dryas" "odonata" 1 1 0.0481927710843373 0.552525731671325 0.847826086956522
+"Lestes sponsa" "Lestes.sponsa" "odonata" 1 1 0.0481927710843373 0.222618632633314 0.707729468599034
+"Lestes virens subsp. vestalis" "Lestes.virens.vestalis" "odonata" 1 1 0.0481927710843373 0.326061497359221 1
+"Leucorrhinia caudalis" "Leucorrhinia.caudalis" "odonata" 1 1 0.0481927710843373 0.331468717819601 1
+"Leucorrhinia dubia" "Leucorrhinia.dubia" "odonata" 1 1 0.0120481927710843 0.540499220385255 0.670289855072464
+"Leucorrhinia pectoralis" "Leucorrhinia.pectoralis" "odonata" 1 1 0.0120481927710843 0.516790016559458 0.931159420289855
+"Libellula depressa" "Libellula.depressa" "odonata" 1 1 0.0120481927710843 0.516790016559458 0.646135265700483
+"Libellula fulva" "Libellula.fulva" "odonata" 1 1 0.0120481927710843 0.352160776690333 0.991545893719807
+"Libellula quadrimaculata" "Libellula.quadrimaculata" "odonata" 1 1 0.0240963855421687 0.555926932385573 0.607487922705314
+"Onychogomphus forcipatus" "Onychogomphus.forcipatus" "odonata" 1 1 0.036144578313253 0.37424250113472 0.729468599033816
+"Onychogomphus forcipatus subsp. forcipatus" "Onychogomphus.forcipatus.forcipatus" "odonata" 1 1 0.0536229424741218 0.424164462455497 1
+"Ophiogomphus cecilia" "Ophiogomphus.cecilia" "odonata" 1 1 0.036144578313253 0.282735718777274 0.806763285024155
+"Orthetrum albistylum" "Orthetrum.albistylum" "odonata" 1 1 0.0120481927710843 0.427288449117841 0.777777777777778
+"Orthetrum brunneum" "Orthetrum.brunneum" "odonata" 1 1 0.0120481927710843 0.352160776690333 0.679951690821256
+"Orthetrum cancellatum" "Orthetrum.cancellatum" "odonata" 1 1 0.253012048192771 0.427288449117841 0.66304347826087
+"Orthetrum coerulescens" "Orthetrum.coerulescens" "odonata" 1 1 0.0240963855421687 0.631953620202433 0.667874396135266
+"Oxygastra curtisii" "Oxygastra.curtisii" "odonata" 1 1 0.349397590361446 0.403389058935866 0.98792270531401
+"Platycnemis pennipes" "Platycnemis.pennipes" "odonata" 1 1 0.192771084337349 0.352888637108142 0.736714975845411
+"Pyrrhosoma nymphula" "Pyrrhosoma.nymphula" "odonata" 1 1 0.180722891566265 0.329597390605395 0.647342995169082
+"Somatochlora alpestris" "Somatochlora.alpestris" "odonata" 1 1 0.0120481927710843 0.397158556693184 0.695652173913043
+"Somatochlora arctica" "Somatochlora.arctica" "odonata" 1 1 0.0120481927710843 0.397158556693184 0.730676328502415
+"Somatochlora flavomaculata" "Somatochlora.flavomaculata" "odonata" 1 1 0.0120481927710843 0.403389058935866 0.753623188405797
+"Somatochlora metallica" "Somatochlora.metallica" "odonata" 1 1 0.0120481927710843 0.505313701716948 0.68719806763285
+"Sympecma fusca" "Sympecma.fusca" "odonata" 1 1 0.0120481927710843 0.154123957978015 0.714975845410628
+"Sympecma paedisca" "Sympecma.paedisca" "odonata" 1 1 0.0120481927710843 0.154123957978015 0.973429951690821
+"Sympetrum danae" "Sympetrum.danae" "odonata" 1 1 0.0120481927710843 0.49149405814256 0.653381642512077
+"Sympetrum depressiusculum" "Sympetrum.depressiusculum" "odonata" 1 1 0.0120481927710843 0.385996616916114 0.765700483091787
+"Sympetrum flaveolum" "Sympetrum.flaveolum" "odonata" 1 1 0.0120481927710843 0.527266568250549 0.78743961352657
+"Sympetrum fonscolombii" "Sympetrum.fonscolombii" "odonata" 1 1 0.0963855421686747 0.402156633326274 0.6256038647343
+"Sympetrum meridionale" "Sympetrum.meridionale" "odonata" 1 1 0.0120481927710843 0.346261860632417 0.815217391304348
+"Sympetrum pedemontanum" "Sympetrum.pedemontanum" "odonata" 1 1 0.0120481927710843 0.49149405814256 0.795893719806763
+"Sympetrum sanguineum" "Sympetrum.sanguineum" "odonata" 1 1 0.0120481927710843 0.447112159190643 0.698067632850242
+"Sympetrum striolatum" "Sympetrum.striolatum" "odonata" 1 1 0.0120481927710843 0.434994520811213 0.67512077294686
+"Sympetrum vulgatum" "Sympetrum.vulgatum" "odonata" 1 1 0.0120481927710843 0.346261860632417 0.67512077294686

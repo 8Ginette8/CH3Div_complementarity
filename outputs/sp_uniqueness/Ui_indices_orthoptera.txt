@@ -1,0 +1,93 @@
+"names.traits" "names.maps" "Group" "Ter" "Aqu" "PhyloUniqueness" "FunctionUniqueness" "Restrictedness"
+"Acheta domesticus" "Acheta.domesticus" "orthoptera" 1 0 0.0431034482758621 0.312392525507279 0.894927536231884
+"Aeropedellus variegatus" "Aeropedellus.variegatus" "orthoptera" 1 0 0.25 0.240742863693683 0.961352657004831
+"Aiolopus strepens" "Aiolopus.strepens" "orthoptera" 1 1 0.00862068965517241 0.662042875157629 0.923913043478261
+"Aiolopus thalassinus" "Aiolopus.thalassinus" "orthoptera" 1 1 0.00862068965517241 0.240742863693683 0.8756038647343
+"Anacridium aegyptium" "Anacridium.aegyptium" "orthoptera" 1 0 0.448275862068965 0.565745729680156 0.967391304347826
+"Anonconotus alpinus" "Anonconotus.alpinus" "orthoptera" 1 0 0.181034482758621 0.499541442164393 0.93719806763285
+"Antaxius pedestris" "Antaxius.pedestris" "orthoptera" 1 0 0.181034482758621 0.561733348618594 0.683574879227053
+"Arcyptera fusca" "Arcyptera.fusca" "orthoptera" 1 0 0.25 0.240742863693683 0.728260869565217
+"Barbitistes obtusus" "Barbitistes.obtusus" "orthoptera" 0 0 0.00862068965517241 0.300928579617104 0.920289855072464
+"Barbitistes serricauda" "Barbitistes.serricauda" "orthoptera" 0 0 0.00862068965517241 0.300928579617104 0.646135265700483
+"Bohemanella frigida" "Bohemanella.frigida" "orthoptera" 1 0 0.0258620689655172 0.120371431846842 0.809178743961353
+"Calliptamus barbarus" "Calliptamus.barbarus" "orthoptera" 1 0 0.0172413793103448 0.120371431846842 0.979468599033816
+"Calliptamus italicus" "Calliptamus.italicus" "orthoptera" 1 1 0.0172413793103448 0.0601857159234208 0.811594202898551
+"Calliptamus siciliae" "Calliptamus.siciliae" "orthoptera" 1 0 0.0172413793103448 0.0601857159234208 0.977053140096618
+"Chorthippus albomarginatus" "Chorthippus.albomarginatus" "orthoptera" 1 0 0.0862068965517241 0.180557147770262 0.788647342995169
+"Chorthippus apricarius" "Chorthippus.apricarius" "orthoptera" 1 0 0.0862068965517241 0.361114295540525 0.774154589371981
+"Chorthippus biguttulus" "Chorthippus.biguttulus" "orthoptera" 1 0 0.0862068965517241 0.160495242462456 0.516908212560387
+"Chorthippus brunneus" "Chorthippus.brunneus" "orthoptera" 1 1 0.0862068965517241 0.210650005731973 0.582125603864734
+"Chorthippus dorsatus" "Chorthippus.dorsatus" "orthoptera" 1 1 0.0862068965517241 0.180557147770262 0.580917874396135
+"Chorthippus mollis" "Chorthippus.mollis" "orthoptera" 1 0 0.0862068965517241 0.0601857159234208 0.752415458937198
+"Chorthippus montanus" "Chorthippus.montanus" "orthoptera" 1 0 0.0862068965517241 0.180557147770262 0.722222222222222
+"Chorthippus parallelus" "Chorthippus.parallelus" "orthoptera" 1 0 0.0862068965517241 0.373151438725209 0.518115942028986
+"Chorthippus pullus" "Chorthippus.pullus" "orthoptera" 1 1 0.0862068965517241 0.120371431846842 0.868357487922705
+"Chorthippus vagans" "Chorthippus.vagans" "orthoptera" 1 1 0.0862068965517241 0.0601857159234208 0.822463768115942
+"Chrysochraon dispar" "Chrysochraon.dispar" "orthoptera" 1 1 0.25 0.180557147770262 0.71256038647343
+"Conocephalus dorsalis" "Conocephalus.dorsalis" "orthoptera" 0 1 0.00862068965517241 0.89873477720262 0.951690821256039
+"Conocephalus fuscus" "Conocephalus.fuscus" "orthoptera" 0 1 0.00862068965517241 0.300928579617104 0.685990338164251
+"Decticus verrucivorus" "Decticus.verrucivorus" "orthoptera" 1 0 0.181034482758621 0.240742863693683 0.582125603864734
+"Ephippiger ephippiger subsp. diurnus" "Ephippiger.ephippiger.diurnus" "orthoptera" 1 0 0.0745436105476673 0.276854293247736 1
+"Ephippiger terrestris subsp. bormansi" "Ephippiger.terrestris.bormansi" "orthoptera" 1 0 0.0745436105476673 0.331021437578815 1
+"Euchorthippus declivus" "Euchorthippus.declivus" "orthoptera" 1 0 0.25 0.180557147770262 0.915458937198068
+"Eumodicogryllus bordigalensis" "Eumodicogryllus.bordigalensis" "orthoptera" 1 1 0.0431034482758621 0.391207153502235 0.896135265700483
+"Eupholidoptera chabrieri" "Eupholidoptera.chabrieri" "orthoptera" 0 0 0.181034482758621 0.120371431846842 0.964975845410628
+"Euthystira brachyptera" "Euthystira.brachyptera" "orthoptera" 1 0 0.25 0.120371431846842 0.572463768115942
+"Gomphocerippus rufus" "Gomphocerippus.rufus" "orthoptera" 1 0 0.25 0.361114295540525 0.520531400966184
+"Gomphocerus sibiricus" "Gomphocerus.sibiricus" "orthoptera" 1 0 0.25 0.23071191103978 0.689613526570048
+"Gryllotalpa gryllotalpa" "Gryllotalpa.gryllotalpa" "orthoptera" 1 1 0.0948275862068965 0.331021437578815 0.690821256038647
+"Gryllus campestris" "Gryllus.campestris" "orthoptera" 1 0 0.0431034482758621 0.120371431846842 0.573671497584541
+"Leptophyes laticauda" "Leptophyes.laticauda" "orthoptera" 0 0 0.0172413793103448 0.240742863693683 0.961352657004831
+"Leptophyes punctatissima" "Leptophyes.punctatissima" "orthoptera" 0 0 0.0172413793103448 0.240742863693683 0.713768115942029
+"Meconema meridionale" "Meconema.meridionale" "orthoptera" 0 0 0.00862068965517241 0.120371431846842 0.719806763285024
+"Meconema thalassinum" "Meconema.thalassinum" "orthoptera" 0 0 0.00862068965517241 0.120371431846842 0.758454106280193
+"Mecostethus parapleurus" "Mecostethus.parapleurus" "orthoptera" 1 1 0.00862068965517241 0.270835721655394 0.632850241545894
+"Metrioptera bicolor" "Metrioptera.bicolor" "orthoptera" 1 0 0.181034482758621 0.457411441017998 0.736714975845411
+"Metrioptera brachyptera" "Metrioptera.brachyptera" "orthoptera" 1 0 0.00862068965517241 0.240742863693683 0.6243961352657
+"Metrioptera fedtschenkoi subsp. minor" "Metrioptera.fedtschenkoi.minor" "orthoptera" 1 1 0.0745436105476673 0.23071191103978 1
+"Metrioptera roeselii" "Metrioptera.roeselii" "orthoptera" 1 0 0.181034482758621 0.331021437578815 0.541062801932367
+"Metrioptera saussuriana" "Metrioptera.saussuriana" "orthoptera" 0 0 0.00862068965517241 0.331021437578815 0.716183574879227
+"Miramella alpina" "Miramella.alpina" "orthoptera" 1 1 0.0258620689655172 0.692135733119339 0.646135265700483
+"Miramella formosanta" "Miramella.formosanta" "orthoptera" 1 0 0.0745436105476673 0.180557147770262 0.827294685990338
+"Myrmeleotettix maculatus" "Myrmeleotettix.maculatus" "orthoptera" 1 0 0.25 0.300928579617104 0.909420289855073
+"Nemobius sylvestris" "Nemobius.sylvestris" "orthoptera" 1 0 0.0172413793103448 0.300928579617104 0.518115942028986
+"Odontopodisma decipiens subsp. insubrica" "Odontopodisma.decipiens.insubrica" "orthoptera" 0 0 0.0745436105476673 0.501547632695174 1
+"Oecanthus pellucens" "Oecanthus.pellucens" "orthoptera" 0 0 0.0862068965517241 0.46142382207956 0.769323671497585
+"Oedipoda caerulescens" "Oedipoda.caerulescens" "orthoptera" 1 0 0.00862068965517241 0.180557147770262 0.713768115942029
+"Oedipoda germanica" "Oedipoda.germanica" "orthoptera" 1 0 0.00862068965517241 0.120371431846842 0.728260869565217
+"Omocestus haemorrhoidalis" "Omocestus.haemorrhoidalis" "orthoptera" 1 0 0.0172413793103448 0 0.736714975845411
+"Omocestus rufipes" "Omocestus.rufipes" "orthoptera" 1 0 0.0172413793103448 0.228705720508999 0.613526570048309
+"Omocestus viridulus" "Omocestus.viridulus" "orthoptera" 1 0 0.0172413793103448 0.240742863693683 0.560386473429952
+"Pezotettix giornae" "Pezotettix.giornae" "orthoptera" 1 0 0.0258620689655172 0.300928579617104 0.969806763285024
+"Phaneroptera falcata" "Phaneroptera.falcata" "orthoptera" 0 0 0.00862068965517241 0.662042875157629 0.70048309178744
+"Phaneroptera nana" "Phaneroptera.nana" "orthoptera" 0 0 0.00862068965517241 0.300928579617104 0.780193236714976
+"Pholidoptera aptera" "Pholidoptera.aptera" "orthoptera" 1 0 0.0172413793103448 0.391207153502235 0.760869565217391
+"Pholidoptera fallax" "Pholidoptera.fallax" "orthoptera" 1 0 0.0172413793103448 0.240742863693683 0.978260869565217
+"Pholidoptera griseoaptera" "Pholidoptera.griseoaptera" "orthoptera" 1 0 0.0172413793103448 0.300928579617104 0.531400966183575
+"Pholidoptera littoralis subsp. insubrica" "Pholidoptera.littoralis.insubrica" "orthoptera" 1 0 0.0745436105476673 0.240742863693683 1
+"Platycleis albopunctata" "Platycleis.albopunctata" "orthoptera" 1 0 0.00862068965517241 0.331021437578815 0.646135265700483
+"Platycleis albopunctata subsp. albopunctata" "Platycleis.albopunctata.albopunctata" "orthoptera" 1 0 0.0745436105476673 0.373151438725209 1
+"Platycleis albopunctata subsp. grisea" "Platycleis.albopunctata.grisea" "orthoptera" 1 0 0.00862068965517241 0.23071191103978 1
+"Podisma pedestris" "Podisma.pedestris" "orthoptera" 1 0 0.0258620689655172 0.180557147770262 0.701690821256039
+"Polysarcus denticauda" "Polysarcus.denticauda" "orthoptera" 1 0 0.0431034482758621 0.451392869425656 0.800724637681159
+"Psophus stridulus" "Psophus.stridulus" "orthoptera" 1 1 0.0775862068965517 0.120371431846842 0.676328502415459
+"Pteronemobius heydenii" "Pteronemobius.heydenii" "orthoptera" 1 1 0.00862068965517241 0.443869654935229 0.721014492753623
+"Pteronemobius lineolatus" "Pteronemobius.lineolatus" "orthoptera" 1 1 0.00862068965517241 0.290897626963201 0.986714975845411
+"Ruspolia nitidula" "Ruspolia.nitidula" "orthoptera" 1 1 0.0172413793103448 0.300928579617104 0.746376811594203
+"Sphingonotus caerulans" "Sphingonotus.caerulans" "orthoptera" 1 1 0.0775862068965517 0.240742863693683 0.783816425120773
+"Stauroderus scalaris" "Stauroderus.scalaris" "orthoptera" 1 0 0.25 0.120371431846842 0.595410628019324
+"Stenobothrus lineatus" "Stenobothrus.lineatus" "orthoptera" 1 0 0.0258620689655172 0 0.566425120772947
+"Stenobothrus nigromaculatus" "Stenobothrus.nigromaculatus" "orthoptera" 1 1 0.0258620689655172 0.120371431846842 0.93719806763285
+"Stenobothrus rubicundulus" "Stenobothrus.rubicundulus" "orthoptera" 1 0 0.0258620689655172 0.180557147770262 0.851449275362319
+"Stethophyma grossum" "Stethophyma.grossum" "orthoptera" 1 0 0.00862068965517241 0.397225725094577 0.58695652173913
+"Tetrix bipunctata" "Tetrix.bipunctata" "orthoptera" 1 0 0.0517241379310345 0.451392869425656 0.589371980676328
+"Tetrix ceperoi" "Tetrix.ceperoi" "orthoptera" 1 1 0.0517241379310345 0.49151668004127 0.971014492753623
+"Tetrix subulata" "Tetrix.subulata" "orthoptera" 1 1 0.0517241379310345 0.361114295540525 0.643719806763285
+"Tetrix tenuicornis" "Tetrix.tenuicornis" "orthoptera" 1 1 0.0517241379310345 0.331021437578815 0.619565217391304
+"Tetrix tuerki" "Tetrix.tuerki" "orthoptera" 1 1 0.0517241379310345 0.120371431846842 0.92512077294686
+"Tetrix undulata" "Tetrix.undulata" "orthoptera" 1 0 0.0517241379310345 0.52160953800298 0.777777777777778
+"Tettigonia cantans" "Tettigonia.cantans" "orthoptera" 0 0 0.0172413793103448 0.361114295540525 0.6243961352657
+"Tettigonia caudata" "Tettigonia.caudata" "orthoptera" 0 0 0.0172413793103448 0.757792877763071 0.978260869565217
+"Tettigonia viridissima" "Tettigonia.viridissima" "orthoptera" 0 0 0.0172413793103448 0.361114295540525 0.516908212560387
+"Uvarovitettix depressus" "Uvarovitettix.depressus" "orthoptera" 1 0 0.0603448275862069 0.180557147770262 0.931159420289855
+"Yersinella raymondii" "Yersinella.raymondii" "orthoptera" 0 0 0.181034482758621 0.120371431846842 0.971014492753623

@@ -1,0 +1,606 @@
+"names.traits" "names.maps" "Group" "Ter" "Aqu" "PhyloUniqueness" "FunctionUniqueness" "Restrictedness"
+"Abax baenningeri" "Abax.baenningeri" "coleoptera" 1 0 0.00356718192627824 0.090674170680102 0.960144927536232
+"Abax ovalis" "Abax.ovalis" "coleoptera" 1 0 0.00356718192627824 0.224069038779741 0.592995169082126
+"Abax parallelepipedus" "Abax.parallelepipedus" "coleoptera" 1 0 0.00356718192627824 0.187955544036224 0.780193236714976
+"Abax parallelus subsp. parallelus" "Abax.parallelus.parallelus" "coleoptera" 1 0 0.0281343458364861 0.398406304820645 1
+"Acanthocinus aedilis" "Acanthocinus.aedilis" "coleoptera" 1 0 0.00416171224732461 0.0606539045515824 0.8743961352657
+"Acrossus depressus" "Acrossus.depressus" "coleoptera" 1 0 0.0261593341260404 0.0123181513927283 0.706521739130435
+"Acrossus luridus" "Acrossus.luridus" "coleoptera" 1 0 0.000594530321046373 0.161928092498704 0.79951690821256
+"Acrossus rufipes" "Acrossus.rufipes" "coleoptera" 1 0 0.000594530321046373 0.00657607223029015 0.766908212560386
+"Actenicerus siaelandicus" "Actenicerus.siaelandicus" "coleoptera" 1 0 0.0124851367419738 0.0112750884137303 0.79951690821256
+"Acupalpus flavicollis" "Acupalpus.flavicollis" "coleoptera" 1 0 0.00416171224732461 0.0108175292169605 0.589371980676328
+"Acupalpus meridianus" "Acupalpus.meridianus" "coleoptera" 1 0 0.00416171224732461 0.0108175292169605 0.815217391304348
+"Adrastus limbatus" "Adrastus.limbatus" "coleoptera" 1 0 0.00356718192627824 0.0133676271917562 0.671497584541063
+"Adrastus pallens" "Adrastus.pallens" "coleoptera" 1 0 0.00356718192627824 0.0131979417895312 0.840579710144927
+"Adrastus rachifer" "Adrastus.rachifer" "coleoptera" 1 0 0.00356718192627824 0.142264673870087 0.702898550724638
+"Aegomorphus clavipes" "Aegomorphus.clavipes" "coleoptera" 1 0 0.0362663495838288 0.0426237237926952 0.723429951690821
+"Aegosoma scabricorne" "Aegosoma.scabricorne" "coleoptera" 1 0 0.00178359096313912 0.379198217428413 0.842995169082126
+"Agapanthia villosoviridescens" "Agapanthia.villosoviridescens" "coleoptera" 1 0 0.0362663495838288 0.0493731284804044 0.75
+"Agolius abdominalis subsp. abdominalis" "Agolius.abdominalis.abdominalis" "coleoptera" 1 0 0.0281343458364861 0.0281172740639266 1
+"Agonum emarginatum" "Agonum.emarginatum" "coleoptera" 1 1 0.0130796670630202 0.118640332985338 0.781400966183575
+"Agonum fuliginosum" "Agonum.fuliginosum" "coleoptera" 1 1 0.0130796670630202 0.118640332985338 0.891304347826087
+"Agonum hypocrita" "Agonum.hypocrita" "coleoptera" 1 1 0.0130796670630202 0.058396654356848 0.746376811594203
+"Agonum micans" "Agonum.micans" "coleoptera" 1 1 0.0130796670630202 0.112735688660602 0.903381642512077
+"Agonum muelleri" "Agonum.muelleri" "coleoptera" 1 0 0.0130796670630202 0.150680839699717 0.736714975845411
+"Agonum sexpunctatum" "Agonum.sexpunctatum" "coleoptera" 1 1 0.0130796670630202 0.00867619103199312 0.6256038647343
+"Agonum thoreyi" "Agonum.thoreyi" "coleoptera" 1 0 0.0130796670630202 0.0343322389627291 0.92512077294686
+"Agonum viduum" "Agonum.viduum" "coleoptera" 1 1 0.0130796670630202 0.0492134554389845 0.67512077294686
+"Agrilinus ater" "Agrilinus.ater" "coleoptera" 1 0 0.00118906064209275 0.0172856618486539 0.867149758454106
+"Agrilus angustulus" "Agrilus.angustulus" "coleoptera" 1 0 0.0184304399524376 0.0238282189075737 0.710144927536232
+"Agrilus ater" "Agrilus.ater" "coleoptera" 1 0 0.0184304399524376 0.0284804370062521 0.786231884057971
+"Agrilus biguttatus" "Agrilus.biguttatus" "coleoptera" 1 0 0.0184304399524376 0.153394966842223 0.75
+"Agrilus convexicollis" "Agrilus.convexicollis" "coleoptera" 1 0 0.0184304399524376 0.0168175501247048 0.821256038647343
+"Agrilus cuprescens" "Agrilus.cuprescens" "coleoptera" 1 0 0.0184304399524376 0.0596876301730873 0.6256038647343
+"Agrilus cyanescens" "Agrilus.cyanescens" "coleoptera" 1 0 0.0184304399524376 0.00934348368588094 0.623188405797101
+"Agrilus derasofasciatus" "Agrilus.derasofasciatus" "coleoptera" 1 0 0.0184304399524376 0.0328941287307553 0.841787439613527
+"Agrilus graminis" "Agrilus.graminis" "coleoptera" 1 0 0.0184304399524376 0.0279093880506749 0.756038647342995
+"Agrilus laticornis" "Agrilus.laticornis" "coleoptera" 1 0 0.0184304399524376 0.0323934638980419 0.650966183574879
+"Agrilus obscuricollis" "Agrilus.obscuricollis" "coleoptera" 1 0 0.0184304399524376 0.0123117006505905 0.873188405797101
+"Agrilus olivicolor" "Agrilus.olivicolor" "coleoptera" 1 0 0.0184304399524376 0.0123117006505905 0.611111111111111
+"Agrilus pratensis" "Agrilus.pratensis" "coleoptera" 1 0 0.0184304399524376 0.0395821625684236 0.764492753623188
+"Agrilus sinuatus" "Agrilus.sinuatus" "coleoptera" 1 0 0.0184304399524376 0.00934348368588094 0.864734299516908
+"Agrilus sulcicollis" "Agrilus.sulcicollis" "coleoptera" 1 0 0.0184304399524376 0.0133766516190222 0.772946859903382
+"Agrilus suvorovi" "Agrilus.suvorovi" "coleoptera" 1 0 0.0184304399524376 0.163267152730668 0.745169082125604
+"Agrilus viridis" "Agrilus.viridis" "coleoptera" 1 0 0.0184304399524376 0.0133766516190222 0.568840579710145
+"Agriotes acuminatus" "Agriotes.acuminatus" "coleoptera" 1 0 0.00594530321046373 0.0135149144004923 0.722222222222222
+"Agriotes gallicus" "Agriotes.gallicus" "coleoptera" 1 0 0.00594530321046373 0.00818068527253401 0.884057971014493
+"Agriotes obscurus" "Agriotes.obscurus" "coleoptera" 1 0 0.00594530321046373 0.141908204504674 0.890096618357488
+"Agriotes pilosellus" "Agriotes.pilosellus" "coleoptera" 1 0 0.00594530321046373 0.0709853565339702 0.522946859903382
+"Agriotes sputator" "Agriotes.sputator" "coleoptera" 1 0 0.00594530321046373 0.0176483818494777 0.751207729468599
+"Agriotes ustulatus" "Agriotes.ustulatus" "coleoptera" 1 0 0.00594530321046373 0.0596876301730873 0.814009661835749
+"Agrypnus murinus" "Agrypnus.murinus" "coleoptera" 1 0 0.139714625445898 0.0360325902591961 0.698067632850242
+"Alosterna tabacicolor" "Alosterna.tabacicolor" "coleoptera" 1 0 0.0196195005945303 0.103158561452246 0.585748792270531
+"Alphitobius diaperinus" "Alphitobius.diaperinus" "coleoptera" 1 0 0.0136741973840666 0.00635418286943973 0.879227053140097
+"Amara aenea" "Amara.aenea" "coleoptera" 1 0 0.0261593341260404 0.00791308405172975 0.68719806763285
+"Amara aulica" "Amara.aulica" "coleoptera" 1 1 0.0261593341260404 0.179135213371019 0.914251207729469
+"Amara bifrons" "Amara.bifrons" "coleoptera" 1 0 0.0261593341260404 0.243326443154552 0.789855072463768
+"Amara communis" "Amara.communis" "coleoptera" 1 1 0.0261593341260404 0.0855190735745154 0.86231884057971
+"Amara convexior" "Amara.convexior" "coleoptera" 1 0 0.0261593341260404 0.0135722148546804 0.772946859903382
+"Amara curta" "Amara.curta" "coleoptera" 1 0 0.0261593341260404 0.00435983413156333 0.590579710144927
+"Amara erratica" "Amara.erratica" "coleoptera" 1 0 0.0261593341260404 0.243326443154552 0.516908212560387
+"Amara familiaris" "Amara.familiaris" "coleoptera" 1 0 0.0261593341260404 0.150142484109049 0.742753623188406
+"Amara fulvipes" "Amara.fulvipes" "coleoptera" 1 0 0.0261593341260404 0.181648380876005 0.88768115942029
+"Amara kulti" "Amara.kulti" "coleoptera" 1 0 0.0261593341260404 0.233350456463565 0.79951690821256
+"Amara lunicollis" "Amara.lunicollis" "coleoptera" 1 1 0.0261593341260404 0.00867619103199312 0.759661835748792
+"Amara montivaga" "Amara.montivaga" "coleoptera" 1 0 0.0261593341260404 0.0894057457851024 0.585748792270531
+"Amara nitida" "Amara.nitida" "coleoptera" 1 0 0.0261593341260404 0.0149592258593069 0.774154589371981
+"Amara ovata" "Amara.ovata" "coleoptera" 1 0 0.0261593341260404 0.0135722148546804 0.739130434782609
+"Amara plebeja" "Amara.plebeja" "coleoptera" 1 0 0.0261593341260404 0.0838457085672231 0.832125603864734
+"Amara praetermissa" "Amara.praetermissa" "coleoptera" 1 0 0.0261593341260404 0.181361782320718 0.772946859903382
+"Amara quenseli subsp. quenseli" "Amara.quenseli.quenseli" "coleoptera" 1 0 0.0281343458364861 0.369262430016511 1
+"Amara similata" "Amara.similata" "coleoptera" 1 0 0.0261593341260404 0.0149592258593069 0.696859903381642
+"Amidorus obscurus subsp. obscurus" "Amidorus.obscurus.obscurus" "coleoptera" 1 0 0.0281343458364861 0.00881745845478561 1
+"Ampedus aethiops" "Ampedus.aethiops" "coleoptera" 1 0 0.0130796670630202 0.0193545587655037 0.6243961352657
+"Ampedus balteatus" "Ampedus.balteatus" "coleoptera" 1 0 0.0130796670630202 0.0981505701778186 0.89975845410628
+"Ampedus elongatulus" "Ampedus.elongatulus" "coleoptera" 1 0 0.0130796670630202 0.0308091489518421 0.713768115942029
+"Ampedus erythrogonus" "Ampedus.erythrogonus" "coleoptera" 1 0 0.0130796670630202 0.0323934638980419 0.63768115942029
+"Ampedus pomorum" "Ampedus.pomorum" "coleoptera" 1 0 0.0130796670630202 0.0767791314785691 0.620772946859903
+"Ampedus praeustus" "Ampedus.praeustus" "coleoptera" 1 0 0.0130796670630202 0.0284804370062521 0.768115942028985
+"Ampedus quercicola" "Ampedus.quercicola" "coleoptera" 1 0 0.0130796670630202 0.0199037218735121 0.684782608695652
+"Ampedus sanguineus" "Ampedus.sanguineus" "coleoptera" 1 0 0.0130796670630202 0.12128157932098 0.667874396135266
+"Ampedus sanguinolentus" "Ampedus.sanguinolentus" "coleoptera" 1 0 0.0130796670630202 0.0199037218735121 0.865942028985507
+"Amphimallon atrum subsp. atrum" "Amphimallon.atrum.atrum" "coleoptera" 1 0 0.0281343458364861 0.00849434887543693 1
+"Amphimallon majale subsp. majale" "Amphimallon.majale.majale" "coleoptera" 1 0 0.0281343458364861 0.00482851285044812 1
+"Amphimallon solstitiale subsp. solstitiale" "Amphimallon.solstitiale.solstitiale" "coleoptera" 1 0 0.0281343458364861 0.00945174708094045 1
+"Anaesthetis testacea" "Anaesthetis.testacea" "coleoptera" 1 0 0.0362663495838288 0.0423159368743055 0.849033816425121
+"Anaglyptus mysticus" "Anaglyptus.mysticus" "coleoptera" 1 0 0.0315101070154578 0.0269131471599901 0.760869565217391
+"Anastrangalia dubia" "Anastrangalia.dubia" "coleoptera" 1 0 0.00118906064209275 0.0147653711961851 0.58695652173913
+"Anastrangalia reyi" "Anastrangalia.reyi" "coleoptera" 1 0 0.00118906064209275 0.0144271524588832 0.728260869565217
+"Anastrangalia sanguinolenta" "Anastrangalia.sanguinolenta" "coleoptera" 1 0 0.00118906064209275 0.0354518052309621 0.573671497584541
+"Anchomenus dorsalis subsp. dorsalis" "Anchomenus.dorsalis.dorsalis" "coleoptera" 1 0 0.0281343458364861 0.0202462559151687 1
+"Ancistronycha abdominalis" "Ancistronycha.abdominalis" "coleoptera" 1 0 0.0267538644470868 0.0172856618486539 0.827294685990338
+"Ancistronycha tigurina" "Ancistronycha.tigurina" "coleoptera" 1 0 0.0281343458364861 0.0231743823513979 0.783816425120773
+"Anisandrus dispar" "Anisandrus.dispar" "coleoptera" 1 0 0.0469678953626635 0.0178611375325087 0.828502415458937
+"Anisodactylus binotatus" "Anisodactylus.binotatus" "coleoptera" 1 0 0.00118906064209275 0.0961215609264559 0.721014492753623
+"Anisodactylus signatus" "Anisodactylus.signatus" "coleoptera" 1 0 0.00118906064209275 0.418692543276285 0.786231884057971
+"Anisoplia villosa" "Anisoplia.villosa" "coleoptera" 1 0 0.00297265160523187 0.0164383672696231 0.881642512077295
+"Anogcodes rufiventris" "Anogcodes.rufiventris" "coleoptera" 1 0 0.0196195005945303 0.0255578515252574 0.618357487922705
+"Anomala dubia subsp. dubia" "Anomala.dubia.dubia" "coleoptera" 1 0 0.00297265160523187 0.103858464812112 1
+"Anoplodera sexguttata" "Anoplodera.sexguttata" "coleoptera" 1 0 0.0196195005945303 0.0474894350006266 0.809178743961353
+"Anoplotrupes stercorosus" "Anoplotrupes.stercorosus" "coleoptera" 1 0 0.0089179548156956 0.0977060046263424 0.741545893719807
+"Anostirus purpureus" "Anostirus.purpureus" "coleoptera" 1 0 0.0124851367419738 0.021221754977267 0.653381642512077
+"Anthaxia candens" "Anthaxia.candens" "coleoptera" 1 0 0.0101070154577883 0.0364073792623917 0.776570048309179
+"Anthaxia godeti" "Anthaxia.godeti" "coleoptera" 1 0 0.0101070154577883 0.129165157567368 0.731884057971014
+"Anthaxia helvetica" "Anthaxia.helvetica" "coleoptera" 1 0 0.0101070154577883 0.0408336491651191 0.543478260869565
+"Anthaxia hungarica" "Anthaxia.hungarica" "coleoptera" 1 0 0.0101070154577883 0.0199358610300474 0.934782608695652
+"Anthaxia morio" "Anthaxia.morio" "coleoptera" 1 0 0.0101070154577883 0.0352562503248255 0.688405797101449
+"Anthaxia nitidula" "Anthaxia.nitidula" "coleoptera" 1 0 0.0101070154577883 0.114786175111533 0.742753623188406
+"Anthaxia quadripunctata" "Anthaxia.quadripunctata" "coleoptera" 1 0 0.0101070154577883 0.0192525531303139 0.585748792270531
+"Anthaxia salicis" "Anthaxia.salicis" "coleoptera" 1 0 0.0101070154577883 0.0767776067985767 0.829710144927536
+"Anthaxia sepulchralis" "Anthaxia.sepulchralis" "coleoptera" 1 0 0.0101070154577883 0.0237483984984742 0.871980676328502
+"Anthicus antherinus" "Anthicus.antherinus" "coleoptera" 1 0 0.00832342449464923 0.106903590462461 0.623188405797101
+"Anthrenus fuscus" "Anthrenus.fuscus" "coleoptera" 1 0 0.00178359096313912 0.0138043401566848 0.774154589371981
+"Anthrenus verbasci" "Anthrenus.verbasci" "coleoptera" 1 0 0.00178359096313912 0.0176483818494777 0.832125603864734
+"Aplocnemus impressus" "Aplocnemus.impressus" "coleoptera" 1 0 0.0481569560047562 0.0108019331207579 0.868357487922705
+"Aplotarsus incanus" "Aplotarsus.incanus" "coleoptera" 1 0 0.0124851367419738 0.0298569271253061 0.736714975845411
+"Arhopalus rusticus" "Arhopalus.rusticus" "coleoptera" 1 0 0.00297265160523187 0.0638158177698512 0.766908212560386
+"Aromia moschata" "Aromia.moschata" "coleoptera" 1 0 0.0315101070154578 0.0577979995792508 0.725845410628019
+"Asaphidion austriacum" "Asaphidion.austriacum" "coleoptera" 1 0 0.00178359096313912 0.156736515774889 0.815217391304348
+"Asaphidion caraboides subsp. caraboides" "Asaphidion.caraboides.caraboides" "coleoptera" 1 0 0.0281343458364861 0.00435983413156333 1
+"Asaphidion flavipes" "Asaphidion.flavipes" "coleoptera" 1 1 0.00178359096313912 0.0587954102249873 0.777777777777778
+"Asaphidion pallipes" "Asaphidion.pallipes" "coleoptera" 1 0 0.00178359096313912 0.113590282539245 0.885265700483092
+"Asemum striatum" "Asemum.striatum" "coleoptera" 1 0 0.00297265160523187 0.0307114792277804 0.809178743961353
+"Athous bicolor" "Athous.bicolor" "coleoptera" 1 0 0.00475624256837099 0.0361455106865439 0.648550724637681
+"Athous emaciatus" "Athous.emaciatus" "coleoptera" 1 0 0.00475624256837099 0.146186116012363 0.548309178743961
+"Athous haemorrhoidalis" "Athous.haemorrhoidalis" "coleoptera" 1 0 0.00475624256837099 0.0183463954139669 0.673913043478261
+"Athous subfuscus" "Athous.subfuscus" "coleoptera" 1 0 0.00475624256837099 0.0609221342102985 0.719806763285024
+"Athous vittatus" "Athous.vittatus" "coleoptera" 1 0 0.00475624256837099 0.184089855787777 0.71256038647343
+"Attagenus pellio" "Attagenus.pellio" "coleoptera" 1 0 0.0172413793103448 0.00896287735469113 0.757246376811594
+"Aulonothroscus brevicollis" "Aulonothroscus.brevicollis" "coleoptera" 1 0 0.00416171224732461 0.00935050933481282 0.672705314009662
+"Badister bullatus" "Badister.bullatus" "coleoptera" 1 0 0.00356718192627824 0.100505679029608 0.774154589371981
+"Badister collaris" "Badister.collaris" "coleoptera" 1 0 0.00356718192627824 0.277893255446597 0.886473429951691
+"Badister dilatatus" "Badister.dilatatus" "coleoptera" 1 0 0.00356718192627824 0.0838083048666018 0.896135265700483
+"Badister lacertosus subsp. lacertosus" "Badister.lacertosus.lacertosus" "coleoptera" 1 0 0.0281343458364861 0.242372620261303 1
+"Badister sodalis" "Badister.sodalis" "coleoptera" 1 1 0.00356718192627824 0.0167844760359762 0.846618357487923
+"Bembidion articulatum" "Bembidion.articulatum" "coleoptera" 1 1 0.0356718192627824 0.036828286664246 0.728260869565217
+"Bembidion ascendens" "Bembidion.ascendens" "coleoptera" 1 0 0.00416171224732461 0.00791308405172975 0.678743961352657
+"Bembidion assimile" "Bembidion.assimile" "coleoptera" 1 1 0.0356718192627824 0.155810266915094 0.879227053140097
+"Bembidion azurescens subsp. azurescens" "Bembidion.azurescens.azurescens" "coleoptera" 1 0 0.0281343458364861 0.0231743823513979 1
+"Bembidion biguttatum" "Bembidion.biguttatum" "coleoptera" 1 1 0.00178359096313912 0.058396654356848 0.820048309178744
+"Bembidion bipunctatum subsp. bipunctatum" "Bembidion.bipunctatum.bipunctatum" "coleoptera" 1 0 0.0281343458364861 0.0202462559151687 1
+"Bembidion bualei subsp. bualei" "Bembidion.bualei.bualei" "coleoptera" 1 1 0.0281343458364861 0.341495286625446 1
+"Bembidion complanatum" "Bembidion.complanatum" "coleoptera" 1 1 0.00416171224732461 0.0492134554389845 0.599033816425121
+"Bembidion conforme" "Bembidion.conforme" "coleoptera" 1 1 0.00416171224732461 0.0211615081269772 0.52536231884058
+"Bembidion decorum subsp. decorum" "Bembidion.decorum.decorum" "coleoptera" 1 1 0.0281343458364861 0.0855190735745154 1
+"Bembidion dentellum" "Bembidion.dentellum" "coleoptera" 1 0 0.0356718192627824 0.0838083048666018 0.83695652173913
+"Bembidion fasciolatum" "Bembidion.fasciolatum" "coleoptera" 1 1 0.00416171224732461 0.0211615081269772 0.613526570048309
+"Bembidion femoratum subsp. femoratum" "Bembidion.femoratum.femoratum" "coleoptera" 1 0 0.0281343458364861 0.0247585071172787 1
+"Bembidion genei subsp. illigeri" "Bembidion.genei.illigeri" "coleoptera" 1 0 0.0112960760998811 0.174931963231243 1
+"Bembidion geniculatum subsp. geniculatum" "Bembidion.geniculatum.geniculatum" "coleoptera" 1 0 0.0281343458364861 0.21092766040872 1
+"Bembidion lampros" "Bembidion.lampros" "coleoptera" 1 1 0.000594530321046373 0.0108799092536278 0.757246376811594
+"Bembidion lunulatum" "Bembidion.lunulatum" "coleoptera" 1 1 0.00178359096313912 0.244713673384744 0.809178743961353
+"Bembidion mannerheimii" "Bembidion.mannerheimii" "coleoptera" 1 1 0.00178359096313912 0.0167844760359762 0.905797101449275
+"Bembidion monticola subsp. monticola" "Bembidion.monticola.monticola" "coleoptera" 1 1 0.0281343458364861 0.108046917528864 1
+"Bembidion obtusum" "Bembidion.obtusum" "coleoptera" 1 0 0.0356718192627824 0.256114229527033 0.946859903381642
+"Bembidion properans" "Bembidion.properans" "coleoptera" 1 1 0.000594530321046373 0.0108799092536278 0.729468599033816
+"Bembidion punctulatum subsp. punctulatum" "Bembidion.punctulatum.punctulatum" "coleoptera" 1 1 0.0281343458364861 0.15192572386705 1
+"Bembidion pygmaeum" "Bembidion.pygmaeum" "coleoptera" 1 0 0.00118906064209275 0.122633778598827 0.75
+"Bembidion quadrimaculatum subsp. quadrimaculatum" "Bembidion.quadrimaculatum.quadrimaculatum" "coleoptera" 1 1 0.0281343458364861 0.00294974933929624 1
+"Bembidion testaceum subsp. testaceum" "Bembidion.testaceum.testaceum" "coleoptera" 1 0 0.0281343458364861 0.0348425880076843 1
+"Bembidion tetracolum subsp. tetracolum" "Bembidion.tetracolum.tetracolum" "coleoptera" 1 1 0.0281343458364861 0.0199663821623106 1
+"Bembidion tibiale" "Bembidion.tibiale" "coleoptera" 1 0 0.00416171224732461 0.0852117896781641 0.804347826086957
+"Bembidion varicolor subsp. varicolor" "Bembidion.varicolor.varicolor" "coleoptera" 1 0 0.0281343458364861 0.0852117896781641 1
+"Bitoma crenata" "Bitoma.crenata" "coleoptera" 1 0 0.00594530321046373 0.0917577108373069 0.806763285024155
+"Blemus discus subsp. discus" "Blemus.discus.discus" "coleoptera" 1 1 0.0281343458364861 0.0245915985657615 1
+"Bodilopsis rufa" "Bodilopsis.rufa" "coleoptera" 1 0 0.00118906064209275 0.0109748740769866 0.657004830917874
+"Bostrichus capucinus" "Bostrichus.capucinus" "coleoptera" 1 0 0.0487514863258026 0.0342565154535434 0.791062801932367
+"Brachinus crepitans" "Brachinus.crepitans" "coleoptera" 1 1 0.00178359096313912 0.0604089130980542 0.785024154589372
+"Brachinus explodens" "Brachinus.explodens" "coleoptera" 1 1 0.00178359096313912 0.00721475523214619 0.793478260869565
+"Brachygonus megerlei" "Brachygonus.megerlei" "coleoptera" 1 0 0.0338882282996433 0.224064874141791 0.783816425120773
+"Brachyta interrogationis" "Brachyta.interrogationis" "coleoptera" 1 0 0.0101070154577883 0.0170634122140379 0.746376811594203
+"Buprestis haemorrhoidalis" "Buprestis.haemorrhoidalis" "coleoptera" 1 0 0.00178359096313912 0.301501276864813 0.728260869565217
+"Buprestis novemmaculata" "Buprestis.novemmaculata" "coleoptera" 1 0 0.00178359096313912 0.207573494910249 0.785024154589372
+"Buprestis octoguttata" "Buprestis.octoguttata" "coleoptera" 1 0 0.00178359096313912 0.0355354665574089 0.885265700483092
+"Buprestis rustica" "Buprestis.rustica" "coleoptera" 1 0 0.00178359096313912 0.0456130884608755 0.592995169082126
+"Byturus ochraceus" "Byturus.ochraceus" "coleoptera" 1 0 0.000594530321046373 0.00936902732080247 0.873188405797101
+"Byturus tomentosus" "Byturus.tomentosus" "coleoptera" 1 0 0.000594530321046373 0.0148275147478344 0.900966183574879
+"Calamosternus granarius" "Calamosternus.granarius" "coleoptera" 1 0 0.0243757431629013 0.0130083396594797 0.820048309178744
+"Calathus erratus subsp. erratus" "Calathus.erratus.erratus" "coleoptera" 0 0 0.0281343458364861 0.458660854516519 1
+"Calathus fuscipes subsp. fuscipes" "Calathus.fuscipes.fuscipes" "coleoptera" 1 0 0.00356718192627824 0.165797665080958 1
+"Calathus melanocephalus subsp. melanocephalus" "Calathus.melanocephalus.melanocephalus" "coleoptera" 1 0 0.0281343458364861 0.227829600387395 1
+"Calathus micropterus" "Calathus.micropterus" "coleoptera" 1 0 0.00356718192627824 0.227829600387395 0.788647342995169
+"Callidium aeneum" "Callidium.aeneum" "coleoptera" 1 0 0.00118906064209275 0.023353210106887 0.723429951690821
+"Callidium coriaceum" "Callidium.coriaceum" "coleoptera" 1 0 0.00118906064209275 0.162260110208375 0.8743961352657
+"Callidium violaceum" "Callidium.violaceum" "coleoptera" 1 0 0.00118906064209275 0.0428843502268865 0.678743961352657
+"Callistus lunatus subsp. lunatus" "Callistus.lunatus.lunatus" "coleoptera" 1 0 0.0281343458364861 0.346177821209066 1
+"Cantharis decipiens" "Cantharis.decipiens" "coleoptera" 1 0 0.0130796670630202 0.0592780395904646 0.768115942028985
+"Cantharis fusca" "Cantharis.fusca" "coleoptera" 1 0 0.0130796670630202 0.0446311899681137 0.878019323671498
+"Cantharis livida" "Cantharis.livida" "coleoptera" 1 0 0.0130796670630202 0.0183463954139669 0.758454106280193
+"Cantharis nigricans" "Cantharis.nigricans" "coleoptera" 1 0 0.0130796670630202 0.0830728260793485 0.79951690821256
+"Cantharis pallida" "Cantharis.pallida" "coleoptera" 1 0 0.0130796670630202 0.00818068527253401 0.805555555555556
+"Cantharis pellucida" "Cantharis.pellucida" "coleoptera" 1 0 0.0130796670630202 0.0148275147478344 0.849033816425121
+"Cantharis rufa" "Cantharis.rufa" "coleoptera" 1 0 0.0130796670630202 0.0171355917869565 0.809178743961353
+"Cantharis rustica" "Cantharis.rustica" "coleoptera" 1 0 0.0130796670630202 0.174590787638983 0.864734299516908
+"Cantharis tristis" "Cantharis.tristis" "coleoptera" 1 0 0.0130796670630202 0.0313715209586842 0.683574879227053
+"Carabus auratus subsp. auratus" "Carabus.auratus.auratus" "coleoptera" 1 0 0.0281343458364861 0.370788457837798 1
+"Carabus auronitens subsp. auronitens" "Carabus.auronitens.auronitens" "coleoptera" 1 1 0.0148632580261593 0.212522370538965 1
+"Carabus cancellatus" "Carabus.cancellatus" "coleoptera" 1 0 0.0148632580261593 0.299982252935957 0.856280193236715
+"Carabus convexus subsp. convexus" "Carabus.convexus.convexus" "coleoptera" 1 0 0.0148632580261593 0.207573494910249 1
+"Carabus coriaceus subsp. coriaceus" "Carabus.coriaceus.coriaceus" "coleoptera" 1 0 0.0148632580261593 0.617125142441083 1
+"Carabus depressus subsp. depressus" "Carabus.depressus.depressus" "coleoptera" 0 0 0.0148632580261593 0.376301087153155 1
+"Carabus glabratus" "Carabus.glabratus" "coleoptera" 1 0 0.0148632580261593 0.264367304270817 0.951690821256039
+"Carabus granulatus subsp. granulatus" "Carabus.granulatus.granulatus" "coleoptera" 1 0 0.0148632580261593 0.276362668733067 1
+"Carabus intricatus subsp. intricatus" "Carabus.intricatus.intricatus" "coleoptera" 1 1 0.0148632580261593 0.212522370538965 1
+"Carabus monilis" "Carabus.monilis" "coleoptera" 1 0 0.0148632580261593 0.387614186478315 0.717391304347826
+"Carabus nemoralis subsp. nemoralis" "Carabus.nemoralis.nemoralis" "coleoptera" 1 0 0.0148632580261593 0.207614619970114 1
+"Carabus problematicus" "Carabus.problematicus" "coleoptera" 1 0 0.0148632580261593 0.325467000033378 0.794685990338164
+"Carabus problematicus subsp. harcyniae" "Carabus.problematicus.harcyniae" "coleoptera" 1 0 0.0281343458364861 0.228741784771412 1
+"Carabus sylvestris subsp. sylvestris" "Carabus.sylvestris.sylvestris" "coleoptera" 1 0 0.0281343458364861 0.299982252935957 1
+"Carabus violaceus" "Carabus.violaceus" "coleoptera" 1 0 0.0148632580261593 0.207614619970114 0.840579710144927
+"Cardiophorus erichsoni" "Cardiophorus.erichsoni" "coleoptera" 1 0 0.00475624256837099 0.0271490168029843 0.900966183574879
+"Cardiophorus nigerrimus" "Cardiophorus.nigerrimus" "coleoptera" 1 0 0.00475624256837099 0.0141257843255889 0.73792270531401
+"Cardiophorus rufipes" "Cardiophorus.rufipes" "coleoptera" 1 0 0.00475624256837099 0.019495438720133 0.751207729468599
+"Cerambyx cerdo" "Cerambyx.cerdo" "coleoptera" 1 0 0.00118906064209275 0.281536197258702 0.934782608695652
+"Cerambyx scopolii" "Cerambyx.scopolii" "coleoptera" 1 0 0.00118906064209275 0.0507975244979862 0.742753623188406
+"Cetonia aurata" "Cetonia.aurata" "coleoptera" 1 0 0.0089179548156956 0.199295865359956 0.60024154589372
+"Chlaenius nigricornis" "Chlaenius.nigricornis" "coleoptera" 1 0 0.00475624256837099 0.0240966566756164 0.900966183574879
+"Chlaenius vestitus" "Chlaenius.vestitus" "coleoptera" 1 0 0.00475624256837099 0.0137991342515111 0.909420289855073
+"Chlorophorus figuratus" "Chlorophorus.figuratus" "coleoptera" 1 0 0.00297265160523187 0.0157145830322473 0.827294685990338
+"Chlorophorus herbstii" "Chlorophorus.herbstii" "coleoptera" 1 0 0.00297265160523187 0.033803364245636 0.793478260869565
+"Chlorophorus sartor" "Chlorophorus.sartor" "coleoptera" 1 0 0.00297265160523187 0.382333292256895 0.864734299516908
+"Chlorophorus varius" "Chlorophorus.varius" "coleoptera" 1 0 0.00297265160523187 0.0144271524588832 0.804347826086957
+"Chrysanthia viridissima" "Chrysanthia.viridissima" "coleoptera" 1 0 0.0196195005945303 0.0219975748917762 0.781400966183575
+"Chrysobothris affinis" "Chrysobothris.affinis" "coleoptera" 1 0 0.00118906064209275 0.0485025449347217 0.756038647342995
+"Chrysobothris chrysostigma" "Chrysobothris.chrysostigma" "coleoptera" 1 0 0.00118906064209275 0.0435029414685276 0.683574879227053
+"Chrysobothris solieri" "Chrysobothris.solieri" "coleoptera" 1 0 0.00118906064209275 0.052339793800609 0.864734299516908
+"Cicindela campestris subsp. campestris" "Cicindela.campestris.campestris" "coleoptera" 1 0 0.0281343458364861 0.141355968959632 1
+"Cicindela gallica" "Cicindela.gallica" "coleoptera" 1 0 0.00237812128418549 0.141355968959632 0.535024154589372
+"Cicindela sylvicola" "Cicindela.sylvicola" "coleoptera" 1 0 0.00237812128418549 0.370788457837798 0.599033816425121
+"Cicindela transversalis" "Cicindela.transversalis" "coleoptera" 1 0 0.00237812128418549 0.0978962784609887 0.673913043478261
+"Cidnopus pilosus" "Cidnopus.pilosus" "coleoptera" 1 0 0.00356718192627824 0.0230305745423804 0.801932367149758
+"Clanoptilus elegans" "Clanoptilus.elegans" "coleoptera" 1 0 0.0172413793103448 0.0581526328431021 0.702898550724638
+"Clerus mutillarius" "Clerus.mutillarius" "coleoptera" 1 0 0.00297265160523187 0.153279618527505 0.823671497584541
+"Clivina collaris" "Clivina.collaris" "coleoptera" 1 0 0.00653983353151011 0.24063490268213 0.678743961352657
+"Clivina fossor subsp. fossor" "Clivina.fossor.fossor" "coleoptera" 1 0 0.0281343458364861 0.0907795848488878 1
+"Clytus arietis" "Clytus.arietis" "coleoptera" 1 0 0.00178359096313912 0.033803364245636 0.630434782608696
+"Clytus lama" "Clytus.lama" "coleoptera" 1 0 0.00178359096313912 0.0297171142784943 0.635265700483092
+"Colobopterus erraticus" "Colobopterus.erraticus" "coleoptera" 1 0 0.0243757431629013 0.0870854068817152 0.782608695652174
+"Colydium elongatum" "Colydium.elongatum" "coleoptera" 1 0 0.00594530321046373 0.0164154209898711 0.661835748792271
+"Copris lunaris" "Copris.lunaris" "coleoptera" 1 0 0.000594530321046373 0.0112433936781949 0.734299516908212
+"Corticeus unicolor" "Corticeus.unicolor" "coleoptera" 1 0 0.00653983353151011 0.026914015947824 0.818840579710145
+"Cortodera femorata" "Cortodera.femorata" "coleoptera" 1 0 0.0196195005945303 0.0423159368743055 0.641304347826087
+"Coxelus pictus" "Coxelus.pictus" "coleoptera" 1 0 0.00594530321046373 0.0780245548525335 0.621980676328502
+"Cryphalus piceae" "Cryphalus.piceae" "coleoptera" 1 0 0.0469678953626635 0.343336993548536 0.763285024154589
+"Crypturgus cinereus" "Crypturgus.cinereus" "coleoptera" 1 0 0.0469678953626635 0.0249495616668469 0.67512077294686
+"Ctenicera cuprea" "Ctenicera.cuprea" "coleoptera" 1 0 0.00178359096313912 0.0355354665574089 0.605072463768116
+"Ctenicera pectinicornis" "Ctenicera.pectinicornis" "coleoptera" 1 0 0.00178359096313912 0.00857455265520179 0.742753623188406
+"Ctenicera virens" "Ctenicera.virens" "coleoptera" 1 0 0.00178359096313912 0.0066599341698751 0.544685990338164
+"Cteniopus sulphureus" "Cteniopus.sulphureus" "coleoptera" 1 0 0.0107015457788347 0.0156568342295035 0.764492753623188
+"Ctesias serra" "Ctesias.serra" "coleoptera" 1 0 0.0172413793103448 0.0136749197826875 0.781400966183575
+"Cychrus attenuatus subsp. attenuatus" "Cychrus.attenuatus.attenuatus" "coleoptera" 1 0 0.00356718192627824 0.168211145439629 1
+"Cychrus caraboides subsp. caraboides" "Cychrus.caraboides.caraboides" "coleoptera" 1 0 0.00356718192627824 0.0320490133112527 1
+"Cychrus italicus" "Cychrus.italicus" "coleoptera" 1 0 0.00356718192627824 0.387614186478315 0.957729468599034
+"Cylindera germanica subsp. germanica" "Cylindera.germanica.germanica" "coleoptera" 1 0 0.0281343458364861 0.128434539573563 1
+"Cymindis vaporariorum" "Cymindis.vaporariorum" "coleoptera" 1 0 0.0184304399524376 0.271493334980808 0.763285024154589
+"Dalopius marginatus" "Dalopius.marginatus" "coleoptera" 1 0 0.0338882282996433 0.0352808369990349 0.727053140096618
+"Danacea nigritarsis" "Danacea.nigritarsis" "coleoptera" 1 0 0.00178359096313912 0.0465791466104464 0.890096618357488
+"Danacea pallipes" "Danacea.pallipes" "coleoptera" 1 0 0.00178359096313912 0.0107233796437115 0.786231884057971
+"Dascillus cervinus" "Dascillus.cervinus" "coleoptera" 1 0 0.208085612366231 0.0251027701458639 0.694444444444444
+"Dasytes aeratus" "Dasytes.aeratus" "coleoptera" 1 0 0.00653983353151011 0.0292290322233213 0.72463768115942
+"Dasytes caeruleus" "Dasytes.caeruleus" "coleoptera" 1 0 0.00653983353151011 0.0162189359059348 0.729468599033816
+"Dasytes niger" "Dasytes.niger" "coleoptera" 1 0 0.00653983353151011 0.00914093953537506 0.868357487922705
+"Dasytes plumbeus" "Dasytes.plumbeus" "coleoptera" 1 0 0.00653983353151011 0.00844610267502896 0.805555555555556
+"Dasytes virens" "Dasytes.virens" "coleoptera" 1 0 0.00653983353151011 0.00810152079841638 0.839371980676328
+"Demetrias atricapillus" "Demetrias.atricapillus" "coleoptera" 1 0 0.00118906064209275 0.0965523666818738 0.908212560386473
+"Demetrias monostigma" "Demetrias.monostigma" "coleoptera" 1 0 0.00118906064209275 0.106903590462461 0.880434782608696
+"Denticollis linearis" "Denticollis.linearis" "coleoptera" 1 0 0.000594530321046373 0.0187095054595762 0.780193236714976
+"Denticollis rubens" "Denticollis.rubens" "coleoptera" 1 0 0.000594530321046373 0.0699091230075002 0.885265700483092
+"Dermestes lardarius" "Dermestes.lardarius" "coleoptera" 1 0 0.00356718192627824 0.00996500498026831 0.890096618357488
+"Dermestes undulatus" "Dermestes.undulatus" "coleoptera" 1 0 0.00356718192627824 0.0171058550447904 0.667874396135266
+"Diachromus germanus" "Diachromus.germanus" "coleoptera" 1 0 0.0772889417360285 0.0137991342515111 0.718599033816425
+"Diaperis boleti" "Diaperis.boleti" "coleoptera" 1 0 0.00653983353151011 0.0424965193642371 0.830917874396135
+"Dicerca alni" "Dicerca.alni" "coleoptera" 1 0 0.0535077288941736 0.261644661144156 0.857487922705314
+"Dicronychus cinereus" "Dicronychus.cinereus" "coleoptera" 1 0 0.00653983353151011 0.0923628313536213 0.852657004830918
+"Dinoptera collaris" "Dinoptera.collaris" "coleoptera" 1 0 0.0101070154577883 0.0401202309061298 0.669082125603865
+"Diplocoelus fagi" "Diplocoelus.fagi" "coleoptera" 1 0 0.00118906064209275 0.0249188851352727 0.696859903381642
+"Dorcatoma punctulata" "Dorcatoma.punctulata" "coleoptera" 1 0 0.0332936979785969 0.0130083396594797 0.608695652173913
+"Dorcus parallelipipedus" "Dorcus.parallelipipedus" "coleoptera" 1 0 0.00178359096313912 0.281706151569494 0.754830917874396
+"Dromaeolus barnabita" "Dromaeolus.barnabita" "coleoptera" 1 0 0.00772889417360285 0.0116400707919978 0.878019323671498
+"Dromius agilis" "Dromius.agilis" "coleoptera" 1 1 0.00237812128418549 0.125911481530304 0.783816425120773
+"Dromius quadrimaculatus" "Dromius.quadrimaculatus" "coleoptera" 1 0 0.00237812128418549 0.0023049218205268 0.915458937198068
+"Dryocoetes autographus" "Dryocoetes.autographus" "coleoptera" 1 0 0.0469678953626635 0.0156066030468833 0.706521739130435
+"Dryophilus pusillus" "Dryophilus.pusillus" "coleoptera" 1 0 0.00178359096313912 0.0666322549026577 0.833333333333333
+"Dyschirius aeneus subsp. aeneus" "Dyschirius.aeneus.aeneus" "coleoptera" 1 0 0.0281343458364861 0.0834733962093458 1
+"Dyschirius globosus" "Dyschirius.globosus" "coleoptera" 1 0 0.00653983353151011 0.331186219105376 0.886473429951691
+"Elaphrus cupreus" "Elaphrus.cupreus" "coleoptera" 1 0 0.287752675386445 0.150142484109049 0.919082125603865
+"Ernobius mollis subsp. mollis" "Ernobius.mollis.mollis" "coleoptera" 1 0 0.0281343458364861 0.228507464251428 1
+"Ernoporicus fagi" "Ernoporicus.fagi" "coleoptera" 1 0 0.0469678953626635 0.0292290322233213 0.676328502415459
+"Esymus pusillus subsp. pusillus" "Esymus.pusillus.pusillus" "coleoptera" 1 0 0.0281343458364861 0.0537246724168059 1
+"Eucnemis capucina" "Eucnemis.capucina" "coleoptera" 1 0 0.00772889417360285 0.0107233796437115 0.794685990338164
+"Euoniticellus fulvus" "Euoniticellus.fulvus" "coleoptera" 1 0 0.0281343458364861 0.0401202309061298 0.706521739130435
+"Evodinus clathratus" "Evodinus.clathratus" "coleoptera" 1 0 0.0101070154577883 0.0269131471599901 0.636473429951691
+"Exocentrus adspersus" "Exocentrus.adspersus" "coleoptera" 1 0 0.00118906064209275 0.0185759420599613 0.908212560386473
+"Exocentrus lusitanus" "Exocentrus.lusitanus" "coleoptera" 1 0 0.00118906064209275 0.16218897971111 0.660628019323672
+"Gaurotes virginea" "Gaurotes.virginea" "coleoptera" 1 0 0.0101070154577883 0.0750293278067706 0.551932367149758
+"Geotrupes spiniger" "Geotrupes.spiniger" "coleoptera" 1 0 0.00118906064209275 0.0285175343043938 0.838164251207729
+"Geotrupes stercorarius" "Geotrupes.stercorarius" "coleoptera" 1 0 0.00118906064209275 0.0109669895065956 0.6243961352657
+"Glaphyra umbellatarum" "Glaphyra.umbellatarum" "coleoptera" 1 0 0.00118906064209275 0.0285175343043938 0.688405797101449
+"Gnorimus nobilis" "Gnorimus.nobilis" "coleoptera" 1 0 0.000594530321046373 0.12373845513936 0.705314009661836
+"Gnorimus variabilis" "Gnorimus.variabilis" "coleoptera" 1 0 0.000594530321046373 0.28820053196279 0.864734299516908
+"Gonodera luperus" "Gonodera.luperus" "coleoptera" 1 0 0.0107015457788347 0.00759008910052667 0.689613526570048
+"Grammoptera abdominalis" "Grammoptera.abdominalis" "coleoptera" 1 0 0.00118906064209275 0.00941997988540013 0.806763285024155
+"Grammoptera ruficornis" "Grammoptera.ruficornis" "coleoptera" 1 0 0.00118906064209275 0.00941997988540013 0.676328502415459
+"Grammoptera ustulata" "Grammoptera.ustulata" "coleoptera" 1 0 0.00118906064209275 0.144945886702408 0.82487922705314
+"Grynobius planus" "Grynobius.planus" "coleoptera" 1 0 0.00178359096313912 0.0127191610371209 0.882850241545894
+"Hadrobregmus denticollis" "Hadrobregmus.denticollis" "coleoptera" 1 0 0.000594530321046373 0.107460461815421 0.789855072463768
+"Hadrobregmus pertinax" "Hadrobregmus.pertinax" "coleoptera" 1 0 0.000594530321046373 0.0234905821324171 0.792270531400966
+"Hallomenus binotatus" "Hallomenus.binotatus" "coleoptera" 1 0 0.0154577883472057 0.0183392049615098 0.740338164251208
+"Harmonia axyridis" "Harmonia.axyridis" "coleoptera" 1 0 0.328180737217598 0.00482851285044812 0.727053140096618
+"Harpalus affinis" "Harpalus.affinis" "coleoptera" 1 0 0.0172413793103448 0.0268860640585669 0.782608695652174
+"Harpalus anxius" "Harpalus.anxius" "coleoptera" 1 0 0.0172413793103448 0.116674424459835 0.684782608695652
+"Harpalus atratus" "Harpalus.atratus" "coleoptera" 1 0 0.0172413793103448 0.292226273769338 0.719806763285024
+"Harpalus dimidiatus" "Harpalus.dimidiatus" "coleoptera" 1 0 0.0172413793103448 0.0240966566756164 0.710144927536232
+"Harpalus distinguendus subsp. distinguendus" "Harpalus.distinguendus.distinguendus" "coleoptera" 1 1 0.0281343458364861 0.179135213371019 1
+"Harpalus griseus" "Harpalus.griseus" "coleoptera" 0 0 0.0172413793103448 0.34283351705436 0.711352657004831
+"Harpalus honestus" "Harpalus.honestus" "coleoptera" 1 0 0.0172413793103448 0.108172220069335 0.717391304347826
+"Harpalus laevipes" "Harpalus.laevipes" "coleoptera" 0 0 0.0172413793103448 0.103822589345151 0.643719806763285
+"Harpalus latus" "Harpalus.latus" "coleoptera" 0 0 0.0172413793103448 0.103822589345151 0.795893719806763
+"Harpalus luteicornis" "Harpalus.luteicornis" "coleoptera" 1 0 0.0172413793103448 0.0838457085672231 0.797101449275362
+"Harpalus pumilus" "Harpalus.pumilus" "coleoptera" 1 1 0.0172413793103448 0.221067922025684 0.933574879227053
+"Harpalus rubripes" "Harpalus.rubripes" "coleoptera" 1 0 0.0172413793103448 0.458660854516519 0.763285024154589
+"Harpalus rufipalpis subsp. rufipalpis" "Harpalus.rufipalpis.rufipalpis" "coleoptera" 1 1 0.0281343458364861 0.172437165467854 1
+"Harpalus rufipes" "Harpalus.rufipes" "coleoptera" 1 0 0.0172413793103448 0.181648380876005 0.769323671497585
+"Harpalus serripes subsp. serripes" "Harpalus.serripes.serripes" "coleoptera" 1 0 0.0281343458364861 0.0343322389627291 1
+"Harpalus signaticornis" "Harpalus.signaticornis" "coleoptera" 1 1 0.0434007134363853 0.172437165467854 0.888888888888889
+"Harpalus smaragdinus" "Harpalus.smaragdinus" "coleoptera" 1 1 0.0172413793103448 0.193664918649734 0.759661835748792
+"Harpalus subcylindricus" "Harpalus.subcylindricus" "coleoptera" 1 1 0.0172413793103448 0.115856664161228 0.745169082125604
+"Harpalus tardus" "Harpalus.tardus" "coleoptera" 1 1 0.0172413793103448 0.125911481530304 0.727053140096618
+"Harpalus tenebrosus subsp. tenebrosus" "Harpalus.tenebrosus.tenebrosus" "coleoptera" 1 0 0.0281343458364861 0.194022965350384 1
+"Helops caeruleus" "Helops.caeruleus" "coleoptera" 1 0 0.0136741973840666 0.00798982256010916 0.890096618357488
+"Hemicoelus costatus" "Hemicoelus.costatus" "coleoptera" 1 0 0.00118906064209275 0.0671876174535883 0.743961352657005
+"Hemicoelus fulvicornis" "Hemicoelus.fulvicornis" "coleoptera" 1 0 0.00118906064209275 0.0965523666818738 0.827294685990338
+"Hemicrepidius hirtus" "Hemicrepidius.hirtus" "coleoptera" 1 0 0.000594530321046373 0.0115470560592397 0.707729468599034
+"Hemicrepidius niger" "Hemicrepidius.niger" "coleoptera" 1 0 0.000594530321046373 0.0187095054595762 0.544685990338164
+"Hister unicolor subsp. unicolor" "Hister.unicolor.unicolor" "coleoptera" 1 0 0.0281343458364861 0.0801582128478951 1
+"Hoplia argentea" "Hoplia.argentea" "coleoptera" 1 0 0.00178359096313912 0.0259507155315004 0.635265700483092
+"Hoplia philanthus subsp. philanthus" "Hoplia.philanthus.philanthus" "coleoptera" 1 0 0.00178359096313912 0.0139003174844913 1
+"Hylastes attenuatus" "Hylastes.attenuatus" "coleoptera" 1 0 0.00297265160523187 0.0249495616668469 0.822463768115942
+"Hylastes cunicularius" "Hylastes.cunicularius" "coleoptera" 1 0 0.00297265160523187 0.00935050933481282 0.768115942028985
+"Hylesinus toranio" "Hylesinus.toranio" "coleoptera" 1 0 0.00118906064209275 0.00519697481467133 0.608695652173913
+"Hylesinus varius" "Hylesinus.varius" "coleoptera" 1 0 0.00118906064209275 0.00519697481467133 0.832125603864734
+"Hylis cariniceps" "Hylis.cariniceps" "coleoptera" 1 0 0.00237812128418549 0.0103468871580162 0.798309178743961
+"Hylis foveicollis" "Hylis.foveicollis" "coleoptera" 1 0 0.00237812128418549 0.0112188918180403 0.57487922705314
+"Hylis olexai" "Hylis.olexai" "coleoptera" 1 0 0.00237812128418549 0.00844610267502896 0.800724637681159
+"Hylotrupes bajulus" "Hylotrupes.bajulus" "coleoptera" 1 0 0.0315101070154578 0.0658259488034219 0.714975845410628
+"Hylurgops palliatus" "Hylurgops.palliatus" "coleoptera" 1 0 0.0469678953626635 0.0705162390950479 0.815217391304348
+"Hymenalia rufipes" "Hymenalia.rufipes" "coleoptera" 1 0 0.0107015457788347 0.0230305745423804 0.907004830917874
+"Hyperisus plumbeum" "Hyperisus.plumbeum" "coleoptera" 1 0 0.0332936979785969 0.195350691113918 0.863526570048309
+"Hypoganus inunctus" "Hypoganus.inunctus" "coleoptera" 1 0 0.0124851367419738 0.153394966842223 0.606280193236715
+"Idolus picipennis" "Idolus.picipennis" "coleoptera" 1 0 0.0338882282996433 0.01198196047336 0.718599033816425
+"Ips typographus" "Ips.typographus" "coleoptera" 1 0 0.0469678953626635 0.0238776442454787 0.788647342995169
+"Isomira murina" "Isomira.murina" "coleoptera" 1 0 0.0107015457788347 0.0137846650207925 0.73792270531401
+"Judolia sexmaculata" "Judolia.sexmaculata" "coleoptera" 1 0 0.000594530321046373 0.0157145830322473 0.804347826086957
+"Lagria hirta" "Lagria.hirta" "coleoptera" 1 0 0.035077288941736 0.254965119006523 0.827294685990338
+"Lamia textor" "Lamia.textor" "coleoptera" 1 0 0.0362663495838288 0.167411233111933 0.893719806763285
+"Lamprodila festiva" "Lamprodila.festiva" "coleoptera" 1 0 0.0535077288941736 0.177290226004799 0.758454106280193
+"Lamprodila rutilans" "Lamprodila.rutilans" "coleoptera" 1 0 0.0281343458364861 0.0453576682959054 0.832125603864734
+"Leistus ferrugineus" "Leistus.ferrugineus" "coleoptera" 1 0 0.00356718192627824 0.125531098188675 0.943236714975845
+"Leistus nitidus" "Leistus.nitidus" "coleoptera" 1 0 0.00356718192627824 0.271493334980808 0.646135265700483
+"Leptura aurulenta" "Leptura.aurulenta" "coleoptera" 1 0 0.00237812128418549 0.0596367636073142 0.839371980676328
+"Leptura quadrifasciata" "Leptura.quadrifasciata" "coleoptera" 1 0 0.00237812128418549 0.0658259488034219 0.847826086956522
+"Lepturobosca virens" "Lepturobosca.virens" "coleoptera" 1 0 0.0196195005945303 0.0516567114977231 0.806763285024155
+"Limodromus assimilis" "Limodromus.assimilis" "coleoptera" 1 0 0.0202140309155767 0.136683277163383 0.754830917874396
+"Limonius minutus" "Limonius.minutus" "coleoptera" 1 0 0.00951248513674197 0.00694928484658624 0.577294685990338
+"Lionychus quadrillum" "Lionychus.quadrillum" "coleoptera" 1 0 0.0184304399524376 0.170285618941698 0.842995169082126
+"Litargus connexus" "Litargus.connexus" "coleoptera" 1 0 0.00713436385255648 0.0236286824052027 0.855072463768116
+"Lopheros rubens" "Lopheros.rubens" "coleoptera" 1 0 0.139714625445898 0.0403493121419471 0.903381642512077
+"Loricera pilicornis subsp. pilicornis" "Loricera.pilicornis.pilicornis" "coleoptera" 1 0 0.287752675386445 0.322198298052679 1
+"Lucanus cervus subsp. cervus" "Lucanus.cervus.cervus" "coleoptera" 1 0 0.00178359096313912 0.0115470560592397 1
+"Lygistopterus sanguineus subsp. sanguineus" "Lygistopterus.sanguineus.sanguineus" "coleoptera" 1 0 0.0281343458364861 0.219858235143163 1
+"Lytta vesicatoria" "Lytta.vesicatoria" "coleoptera" 1 0 0.00416171224732461 0.0251027701458639 0.816425120772947
+"Malachius aeneus" "Malachius.aeneus" "coleoptera" 1 0 0.00178359096313912 0.0108019331207579 0.944444444444444
+"Malachius bipustulatus" "Malachius.bipustulatus" "coleoptera" 1 0 0.00178359096313912 0.0226724788818654 0.822463768115942
+"Malthinus flaveolus" "Malthinus.flaveolus" "coleoptera" 1 0 0.0225921521997622 0.105626994998928 0.729468599033816
+"Malthodes marginatus" "Malthodes.marginatus" "coleoptera" 1 0 0.0225921521997622 0.0168175501247048 0.758454106280193
+"Margarinotus ventralis" "Margarinotus.ventralis" "coleoptera" 1 0 0.0261593341260404 0.00471612083208782 0.768115942028985
+"Megatoma undata" "Megatoma.undata" "coleoptera" 1 0 0.0172413793103448 0.026914015947824 0.728260869565217
+"Melandrya caraboides" "Melandrya.caraboides" "coleoptera" 1 0 0.0154577883472057 0.0263686775203881 0.576086956521739
+"Melanotus castanipes" "Melanotus.castanipes" "coleoptera" 1 0 0.00356718192627824 0.0542880067322633 0.705314009661836
+"Melanotus crassicollis" "Melanotus.crassicollis" "coleoptera" 1 0 0.00356718192627824 0.0233984648934147 0.844202898550725
+"Melanotus punctolineatus" "Melanotus.punctolineatus" "coleoptera" 1 0 0.00356718192627824 0.0801582128478951 0.670289855072464
+"Melanotus villosus" "Melanotus.villosus" "coleoptera" 1 0 0.00356718192627824 0.0721188879207665 0.707729468599034
+"Melasis buprestoides" "Melasis.buprestoides" "coleoptera" 1 0 0.00772889417360285 0.0166177496807925 0.731884057971014
+"Melinopterus prodromus" "Melinopterus.prodromus" "coleoptera" 1 0 0.00178359096313912 0.0447827500535913 0.778985507246377
+"Melinopterus sphacelatus" "Melinopterus.sphacelatus" "coleoptera" 1 0 0.00178359096313912 0.101462842364576 0.885265700483092
+"Meloe proscarabaeus" "Meloe.proscarabaeus" "coleoptera" 1 0 0.00178359096313912 0.028170271707598 0.786231884057971
+"Meloe violaceus" "Meloe.violaceus" "coleoptera" 1 0 0.00178359096313912 0.00781103883674388 0.942028985507246
+"Melolontha hippocastani subsp. hippocastani" "Melolontha.hippocastani.hippocastani" "coleoptera" 1 0 0.0281343458364861 0.0977060046263424 1
+"Melolontha melolontha" "Melolontha.melolontha" "coleoptera" 1 0 0.00653983353151011 0.131208906077805 0.701690821256039
+"Mesosa nebulosa" "Mesosa.nebulosa" "coleoptera" 1 0 0.0362663495838288 0.02813317325565 0.657004830917874
+"Microbregma emarginatum" "Microbregma.emarginatum" "coleoptera" 1 0 0.0101070154577883 0.0332634302414839 0.794685990338164
+"Microlestes maurus subsp. maurus" "Microlestes.maurus.maurus" "coleoptera" 1 0 0.0281343458364861 0.0222020364495468 1
+"Microlestes minutulus" "Microlestes.minutulus" "coleoptera" 1 0 0.0184304399524376 0.21092766040872 0.817632850241546
+"Microrhagus lepidus" "Microrhagus.lepidus" "coleoptera" 1 0 0.00178359096313912 0.00936902732080247 0.740338164251208
+"Microrhagus pygmaeus" "Microrhagus.pygmaeus" "coleoptera" 1 0 0.00178359096313912 0.00810152079841638 0.846618357487923
+"Molops piceus subsp. piceus" "Molops.piceus.piceus" "coleoptera" 1 1 0.0281343458364861 0.271930213762265 1
+"Molorchus minor" "Molorchus.minor" "coleoptera" 1 0 0.00118906064209275 0.0692099443256173 0.619565217391304
+"Monochamus sartor" "Monochamus.sartor" "coleoptera" 1 0 0.00118906064209275 0.167411233111933 0.636473429951691
+"Monochamus sutor" "Monochamus.sutor" "coleoptera" 1 0 0.00118906064209275 0.102100251302659 0.555555555555556
+"Mycetochara maura" "Mycetochara.maura" "coleoptera" 1 0 0.0107015457788347 0.0144638092186421 0.760869565217391
+"Mycetophagus atomarius" "Mycetophagus.atomarius" "coleoptera" 1 0 0.00416171224732461 0.243687881651256 0.648550724637681
+"Mycetophagus quadripustulatus" "Mycetophagus.quadripustulatus" "coleoptera" 1 0 0.00416171224732461 0.00896287735469113 0.849033816425121
+"Mylabris variabilis" "Mylabris.variabilis" "coleoptera" 1 0 0.00416171224732461 0.00617010547387483 0.934782608695652
+"Nacerdes carniolica" "Nacerdes.carniolica" "coleoptera" 1 0 0.0196195005945303 0.126265431390553 0.753623188405797
+"Nebria brevicollis" "Nebria.brevicollis" "coleoptera" 1 0 0.00832342449464923 0.165797665080958 0.774154589371981
+"Nebria gyllenhali subsp. gyllenhali" "Nebria.gyllenhali.gyllenhali" "coleoptera" 1 0 0.0281343458364861 0.273943391282169 1
+"Nebria jockischii subsp. jockischii" "Nebria.jockischii.jockischii" "coleoptera" 1 0 0.0281343458364861 0.462471709979228 1
+"Nebria picicornis subsp. picicornis" "Nebria.picicornis.picicornis" "coleoptera" 1 0 0.0281343458364861 0.197887874737947 1
+"Nebria salina" "Nebria.salina" "coleoptera" 0 0 0.00832342449464923 0.220963258466065 0.818840579710145
+"Nemozoma elongatum" "Nemozoma.elongatum" "coleoptera" 1 0 0.0118906064209275 0.0196926593973508 0.845410628019324
+"Nialus varians" "Nialus.varians" "coleoptera" 1 0 0.0243757431629013 0.0678602801127894 0.623188405797101
+"Nimbus contaminatus" "Nimbus.contaminatus" "coleoptera" 1 0 0.0243757431629013 0.0109748740769866 0.830917874396135
+"Nothodes parvulus" "Nothodes.parvulus" "coleoptera" 1 0 0.00951248513674197 0.0233984648934147 0.809178743961353
+"Notiophilus biguttatus" "Notiophilus.biguttatus" "coleoptera" 1 0 0.00416171224732461 0.116828284639901 0.891304347826087
+"Notiophilus palustris" "Notiophilus.palustris" "coleoptera" 1 0 0.00416171224732461 0.0907795848488878 0.847826086956522
+"Notiophilus rufipes" "Notiophilus.rufipes" "coleoptera" 1 0 0.00416171224732461 0.0023049218205268 0.770531400966184
+"Oberea erythrocephala" "Oberea.erythrocephala" "coleoptera" 1 0 0.00237812128418549 0.0247804805407946 0.951690821256039
+"Oberea linearis" "Oberea.linearis" "coleoptera" 1 0 0.00237812128418549 0.0456130884608755 0.684782608695652
+"Oberea oculata" "Oberea.oculata" "coleoptera" 1 0 0.00237812128418549 0.0383439875673272 0.756038647342995
+"Oberea pupillata" "Oberea.pupillata" "coleoptera" 1 0 0.00237812128418549 0.0646372695930916 0.630434782608696
+"Obrium brunneum" "Obrium.brunneum" "coleoptera" 1 0 0.000594530321046373 0.0144638092186421 0.63768115942029
+"Obrium cantharinum" "Obrium.cantharinum" "coleoptera" 1 0 0.000594530321046373 0.243687881651256 0.734299516908212
+"Oedemera femoralis" "Oedemera.femoralis" "coleoptera" 1 0 0.00713436385255648 0.00945174708094045 0.776570048309179
+"Oedemera femorata" "Oedemera.femorata" "coleoptera" 1 0 0.00713436385255648 0.0156568342295035 0.716183574879227
+"Oedemera flavipes" "Oedemera.flavipes" "coleoptera" 1 0 0.00713436385255648 0.00881745845478561 0.809178743961353
+"Oedemera lurida" "Oedemera.lurida" "coleoptera" 1 0 0.00713436385255648 0.00471612083208782 0.702898550724638
+"Oedemera nobilis" "Oedemera.nobilis" "coleoptera" 1 0 0.00713436385255648 0.0066599341698751 0.886473429951691
+"Oedemera podagrariae" "Oedemera.podagrariae" "coleoptera" 1 0 0.00713436385255648 0.028170271707598 0.842995169082126
+"Oedemera pthysica" "Oedemera.pthysica" "coleoptera" 1 0 0.00713436385255648 0.0814698102603853 0.858695652173913
+"Oedemera tristis" "Oedemera.tristis" "coleoptera" 1 0 0.00713436385255648 0.0133676271917562 0.578502415458937
+"Oedemera virescens" "Oedemera.virescens" "coleoptera" 1 0 0.00713436385255648 0.00857455265520179 0.650966183574879
+"Onthophagus coenobita" "Onthophagus.coenobita" "coleoptera" 1 0 1 0.0112433936781949 0.78743961352657
+"Onthophagus fracticornis" "Onthophagus.fracticornis" "coleoptera" 1 0 1 0.024455113077085 0.666666666666667
+"Onthophagus illyricus" "Onthophagus.illyricus" "coleoptera" 1 0 1 0.00759008910052667 0.864734299516908
+"Onthophagus joannae" "Onthophagus.joannae" "coleoptera" 1 0 1 0.0330050104048853 0.735507246376812
+"Onthophagus medius" "Onthophagus.medius" "coleoptera" 1 0 1 0.0237925649083353 0.873188405797101
+"Onthophagus ovatus" "Onthophagus.ovatus" "coleoptera" 1 0 1 0.0549801016469537 0.800724637681159
+"Onthophagus taurus" "Onthophagus.taurus" "coleoptera" 1 0 0.000594530321046373 0.0382111634168537 0.820048309178744
+"Oodes helopioides subsp. helopioides" "Oodes.helopioides.helopioides" "coleoptera" 1 0 0.0281343458364861 0.00903974551588775 1
+"Opatrum sabulosum" "Opatrum.sabulosum" "coleoptera" 1 0 0.0136741973840666 0.00635418286943973 0.821256038647343
+"Ophonus ardosiacus" "Ophonus.ardosiacus" "coleoptera" 1 0 0.00772889417360285 0.217116680273843 0.821256038647343
+"Ophonus azureus" "Ophonus.azureus" "coleoptera" 1 0 0.00772889417360285 0.243035226965773 0.692028985507246
+"Ophonus puncticeps" "Ophonus.puncticeps" "coleoptera" 1 0 0.00772889417360285 0.00903974551588775 0.631642512077295
+"Opilo mollis" "Opilo.mollis" "coleoptera" 1 0 0.00297265160523187 0.0183329513825974 0.759661835748792
+"Opsilia coerulescens" "Opsilia.coerulescens" "coleoptera" 1 0 0.00356718192627824 0.0298508671380153 0.786231884057971
+"Oreonebria castanea" "Oreonebria.castanea" "coleoptera" 1 0 0.0160523186682521 0.0303988712893982 0.734299516908212
+"Oromus alpinus" "Oromus.alpinus" "coleoptera" 1 0 0.00118906064209275 0.122222846945962 0.704106280193237
+"Oryctes nasicornis" "Oryctes.nasicornis" "coleoptera" 1 0 0.0166468489892985 0.43000135570141 0.956521739130435
+"Oryctes nasicornis subsp. corniculatus" "Oryctes.nasicornis.corniculatus" "coleoptera" 1 0 0.0281343458364861 0.153279618527505 1
+"Otophorus haemorrhoidalis" "Otophorus.haemorrhoidalis" "coleoptera" 1 0 0.0243757431629013 0.0131979417895312 0.621980676328502
+"Oxymirus cursor" "Oxymirus.cursor" "coleoptera" 1 0 0.0101070154577883 0.199295865359956 0.654589371980676
+"Oxypselaphus obscurus" "Oxypselaphus.obscurus" "coleoptera" 1 0 0.0202140309155767 0.0832802786302342 0.920289855072464
+"Oxythyrea funesta" "Oxythyrea.funesta" "coleoptera" 1 0 0.0089179548156956 0.029729842863644 0.792270531400966
+"Pachyta quadrimaculata" "Pachyta.quadrimaculata" "coleoptera" 1 0 0.0101070154577883 0.0596367636073142 0.638888888888889
+"Pachytodes cerambyciformis" "Pachytodes.cerambyciformis" "coleoptera" 1 0 0.000594530321046373 0.0446311899681137 0.570048309178744
+"Panagaeus bipustulatus" "Panagaeus.bipustulatus" "coleoptera" 1 1 0.000594530321046373 0.0167437586136365 0.710144927536232
+"Panagaeus cruxmajor" "Panagaeus.cruxmajor" "coleoptera" 1 1 0.000594530321046373 0.0322049300533152 0.804347826086957
+"Paradromius linearis subsp. linearis" "Paradromius.linearis.linearis" "coleoptera" 1 0 0.0281343458364861 0.0832802786302342 1
+"Paranchus albipes" "Paranchus.albipes" "coleoptera" 1 1 0.0202140309155767 0.0322049300533152 0.810386473429952
+"Paromalus flavicornis" "Paromalus.flavicornis" "coleoptera" 1 0 0.000594530321046373 0.195722155612686 0.765700483091787
+"Paromalus parallelepipedus" "Paromalus.parallelepipedus" "coleoptera" 1 0 0.000594530321046373 0.0678602801127894 0.780193236714976
+"Parophonus maculicornis" "Parophonus.maculicornis" "coleoptera" 1 1 0.0434007134363853 0.00721475523214619 0.756038647342995
+"Patrobus atrorufus" "Patrobus.atrorufus" "coleoptera" 1 1 0.0594530321046373 0.208628436204085 0.844202898550725
+"Peltis ferruginea" "Peltis.ferruginea" "coleoptera" 1 0 0.0481569560047562 0.0395821625684236 0.713768115942029
+"Perileptus areolatus subsp. areolatus" "Perileptus.areolatus.areolatus" "coleoptera" 1 0 0.0281343458364861 0.215972550703279 1
+"Phaenops cyanea" "Phaenops.cyanea" "coleoptera" 1 0 0.0160523186682521 0.0367760852513053 0.804347826086957
+"Pheletes aeneoniger" "Pheletes.aeneoniger" "coleoptera" 1 0 0.000594530321046373 0.0345545597306948 0.658212560386473
+"Pheletes quercus" "Pheletes.quercus" "coleoptera" 1 0 0.000594530321046373 0.0812171044708151 0.898550724637681
+"Phyllopertha horticola" "Phyllopertha.horticola" "coleoptera" 1 0 0.00297265160523187 0.0265679959170457 0.623188405797101
+"Phymatodes testaceus" "Phymatodes.testaceus" "coleoptera" 1 0 0.00832342449464923 0.162260110208375 0.723429951690821
+"Phytoecia affinis" "Phytoecia.affinis" "coleoptera" 1 0 0.00356718192627824 0.276263213110881 0.897342995169082
+"Phytoecia cylindrica" "Phytoecia.cylindrica" "coleoptera" 1 0 0.00356718192627824 0.0212465629324072 0.6243961352657
+"Pidonia lurida" "Pidonia.lurida" "coleoptera" 1 0 0.0101070154577883 0.0183329513825974 0.638888888888889
+"Pityogenes chalcographus" "Pityogenes.chalcographus" "coleoptera" 1 0 0.0469678953626635 0.0138043401566848 0.743961352657005
+"Pityophthorus pityographus subsp. pityographus" "Pityophthorus.pityographus.pityographus" "coleoptera" 1 0 0.0281343458364861 0.0518892504214562 1
+"Plagionotus arcuatus" "Plagionotus.arcuatus" "coleoptera" 1 0 0.0112960760998811 0.025336387965995 0.806763285024155
+"Platycerus caprea" "Platycerus.caprea" "coleoptera" 1 0 0.000594530321046373 0.0257574222183246 0.652173913043478
+"Platycerus caraboides" "Platycerus.caraboides" "coleoptera" 1 0 0.000594530321046373 0.0257574222183246 0.810386473429952
+"Platypus cylindrus" "Platypus.cylindrus" "coleoptera" 1 0 0.0475624256837099 0.020747453409974 0.797101449275362
+"Podabrus alpinus" "Podabrus.alpinus" "coleoptera" 1 0 0.0267538644470868 0.0838425951931557 0.573671497584541
+"Poecilus cupreus subsp. cupreus" "Poecilus.cupreus.cupreus" "coleoptera" 1 1 0.0281343458364861 0.0604089130980542 1
+"Poecilus lepidus" "Poecilus.lepidus" "coleoptera" 1 0 0.00118906064209275 0.090674170680102 0.769323671497585
+"Poecilus versicolor" "Poecilus.versicolor" "coleoptera" 1 0 0.00118906064209275 0.0877139037671674 0.721014492753623
+"Pogonocherus fasciculatus" "Pogonocherus.fasciculatus" "coleoptera" 1 0 0.00297265160523187 0.0162189359059348 0.873188405797101
+"Pogonocherus hispidulus" "Pogonocherus.hispidulus" "coleoptera" 1 0 0.00297265160523187 0.0308091489518421 0.699275362318841
+"Pogonocherus hispidus" "Pogonocherus.hispidus" "coleoptera" 1 0 0.00297265160523187 0.0214853536947796 0.822463768115942
+"Polygraphus poligraphus" "Polygraphus.poligraphus" "coleoptera" 1 0 0.0469678953626635 0.0184242496273371 0.8756038647343
+"Polyphylla fullo subsp. fullo" "Polyphylla.fullo.fullo" "coleoptera" 1 0 0.0281343458364861 0.0139003174844913 1
+"Prionus coriarius" "Prionus.coriarius" "coleoptera" 1 0 0.00178359096313912 0.281536197258702 0.842995169082126
+"Prionychus melanarius" "Prionychus.melanarius" "coleoptera" 1 0 0.0107015457788347 0.163160921490773 0.667874396135266
+"Prosternon tessellatum" "Prosternon.tessellatum" "coleoptera" 1 0 0.0124851367419738 0.066116723293974 0.782608695652174
+"Protaetia cuprea" "Protaetia.cuprea" "coleoptera" 1 0 0.00475624256837099 0.12373845513936 0.591787439613527
+"Protaetia cuprea subsp. metallica" "Protaetia.cuprea.metallica" "coleoptera" 1 0 0.00475624256837099 0.0288280213039536 1
+"Protaetia marmorata subsp. marmorata" "Protaetia.marmorata.marmorata" "coleoptera" 1 0 1 0.0560115304201861 1
+"Protaetia speciosissima" "Protaetia.speciosissima" "coleoptera" 1 0 0.00475624256837099 0.208237866068672 0.864734299516908
+"Pseudocistela ceramboides" "Pseudocistela.ceramboides" "coleoptera" 1 0 0.0107015457788347 0.123403714876837 0.740338164251208
+"Pseudovadonia livida" "Pseudovadonia.livida" "coleoptera" 1 0 0.0196195005945303 0.0298569271253061 0.798309178743961
+"Pterostichus anthracinus subsp. anthracinus" "Pterostichus.anthracinus.anthracinus" "coleoptera" 1 0 0.0281343458364861 0.0877139037671674 1
+"Pterostichus burmeisteri subsp. burmeisteri" "Pterostichus.burmeisteri.burmeisteri" "coleoptera" 1 1 0.0281343458364861 0.536515475780313 1
+"Pterostichus cristatus subsp. cristatus" "Pterostichus.cristatus.cristatus" "coleoptera" 1 0 0.0281343458364861 0.186287225545598 1
+"Pterostichus diligens" "Pterostichus.diligens" "coleoptera" 1 0 0.000594530321046373 0.170285618941698 0.516908212560387
+"Pterostichus jurinei" "Pterostichus.jurinei" "coleoptera" 1 0 0.00297265160523187 0.471537521117527 0.770531400966184
+"Pterostichus madidus" "Pterostichus.madidus" "coleoptera" 1 0 0.0160523186682521 0.26387724496801 0.725845410628019
+"Pterostichus melanarius subsp. melanarius" "Pterostichus.melanarius.melanarius" "coleoptera" 1 0 0.0281343458364861 0.400879777544705 1
+"Pterostichus minor subsp. minor" "Pterostichus.minor.minor" "coleoptera" 1 0 0.0281343458364861 0.233350456463565 1
+"Pterostichus morio subsp. morio" "Pterostichus.morio.morio" "coleoptera" 1 0 0.00297265160523187 0.0320490133112527 1
+"Pterostichus niger subsp. niger" "Pterostichus.niger.niger" "coleoptera" 1 0 0.0281343458364861 0.324567513577408 1
+"Pterostichus nigrita subsp. nigrita" "Pterostichus.nigrita.nigrita" "coleoptera" 1 0 0.0281343458364861 0.0978962784609887 1
+"Pterostichus oblongopunctatus subsp. oblongopunctatus" "Pterostichus.oblongopunctatus.oblongopunctatus" "coleoptera" 1 0 0.0281343458364861 0.187955544036224 1
+"Pterostichus ovoideus subsp. ovoideus" "Pterostichus.ovoideus.ovoideus" "coleoptera" 1 0 0.0281343458364861 0.100798936194726 1
+"Pterostichus pumilio subsp. pumilio" "Pterostichus.pumilio.pumilio" "coleoptera" 1 0 0.0281343458364861 0.181361782320718 1
+"Pterostichus rhaeticus" "Pterostichus.rhaeticus" "coleoptera" 1 1 0.0160523186682521 0.0543499008517973 0.945652173913043
+"Pterostichus strenuus" "Pterostichus.strenuus" "coleoptera" 1 1 0.000594530321046373 0.0367222912135438 0.876811594202899
+"Pterostichus unctulatus" "Pterostichus.unctulatus" "coleoptera" 1 1 0.0160523186682521 0.400963216699689 0.727053140096618
+"Pterostichus vernalis" "Pterostichus.vernalis" "coleoptera" 1 0 0.0160523186682521 0.140572677980263 0.745169082125604
+"Ptilinus pectinicornis" "Ptilinus.pectinicornis" "coleoptera" 1 0 0.0332936979785969 0.0188543285119427 0.809178743961353
+"Ptinomorphus imperialis" "Ptinomorphus.imperialis" "coleoptera" 1 0 0.0332936979785969 0.0166177496807925 0.884057971014493
+"Ptinus fur" "Ptinus.fur" "coleoptera" 1 0 0.00475624256837099 0.0408964794162411 0.851449275362319
+"Ptinus sexpunctatus" "Ptinus.sexpunctatus" "coleoptera" 1 0 0.00475624256837099 0.029107081184814 0.707729468599034
+"Ptinus subpilosus" "Ptinus.subpilosus" "coleoptera" 1 0 0.00475624256837099 0.0447827500535913 0.903381642512077
+"Purpuricenus kaehleri" "Purpuricenus.kaehleri" "coleoptera" 1 0 0.0315101070154578 0.0428843502268865 0.86231884057971
+"Pyrochroa coccinea" "Pyrochroa.coccinea" "coleoptera" 1 0 0.000594530321046373 0.174590787638983 0.876811594202899
+"Pyrochroa serraticornis" "Pyrochroa.serraticornis" "coleoptera" 1 0 0.000594530321046373 0.0247804805407946 0.818840579710145
+"Pyrrhidium sanguineum" "Pyrrhidium.sanguineum" "coleoptera" 1 0 0.00832342449464923 0.019495438720133 0.816425120772947
+"Rhagium bifasciatum" "Rhagium.bifasciatum" "coleoptera" 1 0 0.00178359096313912 0.0812171044708151 0.568840579710145
+"Rhagium inquisitor" "Rhagium.inquisitor" "coleoptera" 1 0 0.00178359096313912 0.0410433859901395 0.615942028985507
+"Rhagium mordax" "Rhagium.mordax" "coleoptera" 1 0 0.00178359096313912 0.181281341115112 0.682367149758454
+"Rhagium sycophanta" "Rhagium.sycophanta" "coleoptera" 1 0 0.00178359096313912 0.0933296757815106 0.870772946859903
+"Rhagonycha fulva" "Rhagonycha.fulva" "coleoptera" 1 0 0.00713436385255648 0.0103842715957627 0.849033816425121
+"Rhagonycha lignosa" "Rhagonycha.lignosa" "coleoptera" 1 0 0.00713436385255648 0.0458514499868212 0.756038647342995
+"Rhagonycha lutea" "Rhagonycha.lutea" "coleoptera" 1 0 0.00713436385255648 0.00798982256010916 0.861111111111111
+"Rhagonycha nigripes" "Rhagonycha.nigripes" "coleoptera" 1 0 0.00713436385255648 0.0094159929522111 0.618357487922705
+"Rhagonycha nigriventris" "Rhagonycha.nigriventris" "coleoptera" 1 0 0.00713436385255648 0.100798936194726 0.917874396135266
+"Rhagonycha translucida" "Rhagonycha.translucida" "coleoptera" 1 0 0.00713436385255648 0.0561304543941952 0.870772946859903
+"Rhyssemus germanus" "Rhyssemus.germanus" "coleoptera" 1 0 0.0309155766944114 0.0288280213039536 0.776570048309179
+"Rosalia alpina" "Rosalia.alpina" "coleoptera" 1 0 0.0315101070154578 0.0577979995792508 0.716183574879227
+"Rusticoclytus rusticus" "Rusticoclytus.rusticus" "coleoptera" 1 0 0.0112960760998811 0.0147653711961851 0.893719806763285
+"Rutpela maculata" "Rutpela.maculata" "coleoptera" 1 0 0.00237812128418549 0.0731089314998058 0.567632850241546
+"Salpingus planirostris" "Salpingus.planirostris" "coleoptera" 1 0 0.00118906064209275 0.0648164745438507 0.846618357487923
+"Salpingus ruficollis" "Salpingus.ruficollis" "coleoptera" 1 0 0.00118906064209275 0.0103716140123528 0.896135265700483
+"Saperda carcharias" "Saperda.carcharias" "coleoptera" 1 0 0.00356718192627824 0.0507975244979862 0.660628019323672
+"Saperda octopunctata" "Saperda.octopunctata" "coleoptera" 1 0 0.00356718192627824 0.232275668626279 0.747584541062802
+"Saperda populnea" "Saperda.populnea" "coleoptera" 1 0 0.00356718192627824 0.0333920873044538 0.572463768115942
+"Saperda scalaris" "Saperda.scalaris" "coleoptera" 1 0 0.00356718192627824 0.0652593309186107 0.76207729468599
+"Schizotus pectinicornis" "Schizotus.pectinicornis" "coleoptera" 1 0 0.00118906064209275 0.115354741150079 0.903381642512077
+"Scolytus intricatus" "Scolytus.intricatus" "coleoptera" 1 0 0.0469678953626635 0.138368711359466 0.78743961352657
+"Selatosomus aeneus" "Selatosomus.aeneus" "coleoptera" 1 0 0.0124851367419738 0.0206781720507665 0.666666666666667
+"Serica brunnea" "Serica.brunnea" "coleoptera" 1 0 0.0576694411414982 0.123020721817784 0.814009661835749
+"Serropalpus barbatus" "Serropalpus.barbatus" "coleoptera" 1 0 0.0154577883472057 0.0638156844233797 0.842995169082126
+"Sinechostictus decoratus" "Sinechostictus.decoratus" "coleoptera" 1 0 0.00416171224732461 0.0303988712893982 0.699275362318841
+"Sinechostictus ruficornis" "Sinechostictus.ruficornis" "coleoptera" 1 0 0.00416171224732461 0.0961215609264559 0.699275362318841
+"Sinodendron cylindricum" "Sinodendron.cylindricum" "coleoptera" 1 0 0.00356718192627824 0.029729842863644 0.660628019323672
+"Spondylis buprestoides" "Spondylis.buprestoides" "coleoptera" 1 0 0.109988109393579 0.158197956247623 0.795893719806763
+"Stenagostus rhombeus" "Stenagostus.rhombeus" "coleoptera" 1 0 0.00356718192627824 0.0546638464589569 0.696859903381642
+"Stenocorus meridianus" "Stenocorus.meridianus" "coleoptera" 1 0 0.0101070154577883 0.158197956247623 0.670289855072464
+"Stenolophus mixtus" "Stenolophus.mixtus" "coleoptera" 1 0 0.00237812128418549 0.217116680273843 0.827294685990338
+"Stenolophus teutonus" "Stenolophus.teutonus" "coleoptera" 1 0 0.00237812128418549 0.203957921738824 0.735507246376812
+"Stenomax aeneus" "Stenomax.aeneus" "coleoptera" 1 0 0.0136741973840666 0.0471308595757236 0.88768115942029
+"Stenopterus rufus" "Stenopterus.rufus" "coleoptera" 1 0 0.0315101070154578 0.0420304637787982 0.747584541062802
+"Stenostola dubia" "Stenostola.dubia" "coleoptera" 1 0 0.00535077288941736 0.0329704744388203 0.619565217391304
+"Stenurella bifasciata" "Stenurella.bifasciata" "coleoptera" 1 0 0.00118906064209275 0.0212465629324072 0.735507246376812
+"Stenurella melanura" "Stenurella.melanura" "coleoptera" 1 0 0.00118906064209275 0.0814698102603853 0.536231884057971
+"Stenurella nigra" "Stenurella.nigra" "coleoptera" 1 0 0.00118906064209275 0.0287725253184448 0.814009661835749
+"Stictoleptura fulva" "Stictoleptura.fulva" "coleoptera" 1 0 0.00118906064209275 0.0699091230075002 0.661835748792271
+"Stictoleptura hybrida" "Stictoleptura.hybrida" "coleoptera" 1 0 0.00118906064209275 0.0592780395904646 0.685990338164251
+"Stictoleptura rubra" "Stictoleptura.rubra" "coleoptera" 1 0 0.0196195005945303 0.025336387965995 0.580917874396135
+"Stomis pumicatus subsp. pumicatus" "Stomis.pumicatus.pumicatus" "coleoptera" 0 0 0.0281343458364861 0.257849507137723 1
+"Strangalia attenuata" "Strangalia.attenuata" "coleoptera" 1 0 0.0196195005945303 0.0560115304201861 0.758454106280193
+"Syntomus truncatellus" "Syntomus.truncatellus" "coleoptera" 1 0 0.0184304399524376 0.0222020364495468 0.795893719806763
+"Synuchus vivalis subsp. vivalis" "Synuchus.vivalis.vivalis" "coleoptera" 1 1 0.0281343458364861 0.208628436204085 1
+"Tachys bistriatus subsp. bistriatus" "Tachys.bistriatus.bistriatus" "coleoptera" 1 0 0.0281343458364861 0.00950833930296047 1
+"Tachyta nana subsp. nana" "Tachyta.nana.nana" "coleoptera" 1 1 0.0281343458364861 0.00294974933929624 1
+"Tachyura parvula" "Tachyura.parvula" "coleoptera" 1 0 0.0451843043995244 0.0834733962093458 0.800724637681159
+"Tachyura quadrisignata subsp. quadrisignata" "Tachyura.quadrisignata.quadrisignata" "coleoptera" 1 0 0.0281343458364861 0.0462355343822046 1
+"Tachyura sexstriata" "Tachyura.sexstriata" "coleoptera" 1 0 0.0772889417360285 0.116674424459835 0.801932367149758
+"Taphrorychus bicolor" "Taphrorychus.bicolor" "coleoptera" 1 0 0.0469678953626635 0.0581526328431021 0.765700483091787
+"Tenebrio molitor" "Tenebrio.molitor" "coleoptera" 1 0 0.0136741973840666 0.01198196047336 0.772946859903382
+"Tetropium castaneum" "Tetropium.castaneum" "coleoptera" 1 0 0.00118906064209275 0.0750293278067706 0.576086956521739
+"Tetropium fuscum" "Tetropium.fuscum" "coleoptera" 1 0 0.00118906064209275 0.0274283872945387 0.632850241545894
+"Tetropium gabrieli" "Tetropium.gabrieli" "coleoptera" 1 0 0.00118906064209275 0.0298508671380153 0.695652173913043
+"Tetrops praeustus" "Tetrops.praeustus" "coleoptera" 1 0 0.0362663495838288 0.0156656902726417 0.741545893719807
+"Teuchestes fossor" "Teuchestes.fossor" "coleoptera" 1 0 0.0243757431629013 0.0171355917869565 0.577294685990338
+"Thanasimus formicarius subsp. formicarius" "Thanasimus.formicarius.formicarius" "coleoptera" 1 0 0.0281343458364861 0.0109669895065956 1
+"Tillus elongatus" "Tillus.elongatus" "coleoptera" 1 0 0.00416171224732461 0.0552005957609464 0.602657004830918
+"Trachys minuta" "Trachys.minuta" "coleoptera" 1 0 0.0279429250891795 0.00849434887543693 0.754830917874396
+"Trechoblemus micros" "Trechoblemus.micros" "coleoptera" 1 1 0.0118906064209275 0.341495286625446 0.903381642512077
+"Trechus obtusus subsp. obtusus" "Trechus.obtusus.obtusus" "coleoptera" 1 0 0.0281343458364861 0.00950833930296047 1
+"Trechus quadristriatus" "Trechus.quadristriatus" "coleoptera" 1 0 0.0118906064209275 0.321887421600949 0.768115942028985
+"Trechus secalis subsp. secalis" "Trechus.secalis.secalis" "coleoptera" 1 0 0.0281343458364861 0.321887421600949 1
+"Trichius fasciatus" "Trichius.fasciatus" "coleoptera" 1 0 0.0089179548156956 0.0606539045515824 0.588164251207729
+"Trichodes alvearius" "Trichodes.alvearius" "coleoptera" 1 0 0.000594530321046373 0.00657607223029015 0.77536231884058
+"Trichodes apiarius" "Trichodes.apiarius" "coleoptera" 1 0 0.000594530321046373 0.0252499448491471 0.6256038647343
+"Trichotichnus laevicollis" "Trichotichnus.laevicollis" "coleoptera" 1 0 0.00118906064209275 0.0981505701778186 0.516908212560387
+"Trichotichnus nitens" "Trichotichnus.nitens" "coleoptera" 1 0 0.00118906064209275 0.108172220069335 0.654589371980676
+"Trixagus dermestoides" "Trixagus.dermestoides" "coleoptera" 1 0 0.00416171224732461 0.029107081184814 0.956521739130435
+"Tropinota hirta subsp. hirta" "Tropinota.hirta.hirta" "coleoptera" 1 0 0.0281343458364861 0.0141257843255889 1
+"Trox scaber" "Trox.scaber" "coleoptera" 1 0 0.00237812128418549 0.0539698767610097 0.745169082125604
+"Trypocopris pyrenaeus subsp. splendens" "Trypocopris.pyrenaeus.splendens" "coleoptera" 1 0 0.0281343458364861 0.0238282189075737 1
+"Trypocopris vernalis" "Trypocopris.vernalis" "coleoptera" 1 0 0.0089179548156956 0.0103468871580162 0.851449275362319
+"Trypodendron lineatum" "Trypodendron.lineatum" "coleoptera" 1 0 0.0469678953626635 0.0184242496273371 0.828502415458937
+"Valgus hemipterus" "Valgus.hemipterus" "coleoptera" 1 0 0.0576694411414982 0.0281172740639266 0.798309178743961
+"Vincenzellus ruficollis" "Vincenzellus.ruficollis" "coleoptera" 1 0 0.116527942925089 0.0365186380026936 0.679951690821256
+"Volinus sticticus" "Volinus.sticticus" "coleoptera" 1 0 0.0243757431629013 0.0443207091724399 0.722222222222222
+"Xyleborinus saxesenii" "Xyleborinus.saxesenii" "coleoptera" 1 0 0.0469678953626635 0.249064474015212 0.892512077294686
+"Xylosandrus germanus" "Xylosandrus.germanus" "coleoptera" 1 0 0.0469678953626635 0.0252499448491471 0.702898550724638
+"Xylotrechus antilope" "Xylotrechus.antilope" "coleoptera" 1 0 0.0112960760998811 0.0358706112216333 0.829710144927536
+"Zorochros dufouri" "Zorochros.dufouri" "coleoptera" 1 0 0.139714625445898 0.0094159929522111 0.910628019323672
