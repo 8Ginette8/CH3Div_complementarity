@@ -40,7 +40,7 @@ From there, you can successively run the scripts:
 - `1_CH3Div_OToL_phylogenies.R`: pipeline to generate the phylogenies of our 17 taxonomic groups from the ['Open Tree of Life'](https://tree.opentreeoflife.org/opentree/argus/opentree16.1@ott93302) API. 
 - `2_CH3Div_Functional_trees.R`: pipeline to generate the functional trees of our taxonomic groups based on [TraitCH](https://doi.org/10.5281/zenodo.15063844) v1.0.
 - `3_CH3Div_Uniqueness_metrics.R`: pipeline to generate the species' indices of functional and phylogenetic uniqueness based on above.
-- `4_CH3Div_Zonation5_(linux_only).R`: linux pipeline to run the prioritization (Zonation 5) runs.
+- `4_CH3Div_Zonation5_(linux_only).R`: linux pipeline to run the prioritization (Zonation) runs.
 
 ## Reference
 Adde, A., Rey, PL., Külling, N. et al. SDMapCH: a Comprehensive database of >7,500 modelled species habitat suitability maps for Switzerland. Sci Data 12, 1752 (2025). [10.1038/s41597-025-06037-x](https://doi.org/10.1038/s41597-025-06037-x)
