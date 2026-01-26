@@ -15,7 +15,7 @@ The CI indicator was generated using the spatial conservation planning software 
   />
 </p>
 
-> *Complementarity importance score map for terrestrial species. Higher values indicate higher pixel contributions for overall complementarity, lowe values implies larger loss.*
+> *Complementarity importance score map for terrestrial species. Higher values indicate higher pixel contributions for overall complementarity, lower values imply larger importance.*
 
 The Core Area Zonation 2 (CAZ2) marginal loss rule algorithm was here applied. This algorithm gives a particular focus on improving the protection of the least represented species, while maintaining a reasonable level of conservation across all species.
 
