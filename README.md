@@ -5,7 +5,7 @@
 
 This repository contains the whole pipeline used to spatially estimate the importance of complementary biodiversity for conservation prioritization in Switzerland. The Complementarity Indicator (CI) measures the importance of a pixel based on its contribution to taxonomic, functional, and phylogenetic diversity ($\alpha$ component), as well as its distinct composition of species ($\beta$ component), within the context of the [SPEED2ZERO](https://speed2zero.ethz.ch/en/) project.
 
-The CI indicator was generated using the spatial conservation planning software Zonation 5.0 (Moilanen et al. 2022). Using biodiversity feature inputs (see SDMapCH data below), the software assigns each pixel in the study area a conservation value ranging from 0 (lowest) to 1 (highest). Zonation operates through an iterative removal process in which, at each step, the pixel contributing least to overall biodiversity representation is eliminated and the remaining pixel values are recalculated. This produces a hierarchical prioritization of the landscape, with pixels most important for biodiversity conservation receiving the highest ranks.
+The CI indicator was generated using the spatial conservation planning software Zonation 5.0 (Moilanen et al. 2022), and biodiversity feature inputs (see SDMapCH data below). Zonation operates through an iterative removal process in which, at each step, the pixel contributing least to overall biodiversity representation is eliminated and the remaining pixel values are recalculated. This produces a hierarchical prioritization of the landscape, with pixels most important for biodiversity conservation receiving the highest ranks.
 
 <p align="center">
   <img
@@ -17,7 +17,9 @@ The CI indicator was generated using the spatial conservation planning software 
 
 > *Complementarity importance score map for terrestrial species. Higher values indicate higher pixel contributions for overall complementarity, lowe values implies larger loss.*
 
-The Core Area Zonation 2 (CAZ2) marginal loss rule algorithm was here applied. This algorithm gives a particular focus on improving the protection of the least represented species, while maintaining a reasonable level of conservation across all species. As a result, the method ensures strong representation of rare and range-restricted species by safeguarding their core habitats throughout the prioritization process. Zonation also allows users to assign weights to input features to reflect their relative importance in the prioritization. In our case, we incorporated species-level weights based on each species’ phylogenetic and functional uniqueness to give greater importance to those contributing disproportionately to evolutionary history and ecosystem functioning (Grenié et al. 2017), using the [Open Tree of Life](https://doi.org/10.1111/2041-210X.12593) and the [TraitCH](https://doi.org/10.5281/zenodo.15063844) dataset.
+The Core Area Zonation 2 (CAZ2) marginal loss rule algorithm was here applied. This algorithm gives a particular focus on improving the protection of the least represented species, while maintaining a reasonable level of conservation across all species.
+
+Zonation also allows users to assign weights to input features to reflect their relative importance in the prioritization. In our case, we incorporated species-level weights based on each species’ phylogenetic and functional uniqueness to give greater importance to those contributing disproportionately to evolutionary history and ecosystem functioning (Grenié et al. 2017), using the [Open Tree of Life](https://doi.org/10.1111/2041-210X.12593) and the [TraitCH](https://doi.org/10.5281/zenodo.15063844) dataset.
 
 ## Requirements
 
@@ -48,4 +50,4 @@ Grenié, M., Denelle, P., Tucker, C. M., Munoz, F., & Violle, C. (2017). funrar:
 Moilanen, A., Lehtinen, P., Kohonen, I., Jalkanen, J., Virtanen, E. A., & Kujala, H. (2022). Novel methods for spatial prioritization with applications in conservation, land use planning and ecological impact avoidance. Methods in Ecology and Evolution, 13(5), 1062-1072.
 
 ## Citation
-Adde, A., Boussange, V., Chauvier, Y., Dahito, M.-A., Früh, J., Graham, C., Pellissier, L., Zimmermann, N., & Altermatt, F. (2025). Spatial biodiversity indicators and a composite index for conservation prioritization in Switzerland, bioRxiv. [https://doi.org/10.5281/zenodo.15629783](https://doi.org/10.1101/2025.06.10.657334)
+Adde, A., Boussange, V., Chauvier, Y., Dahito, M.-A., Früh, J., Graham, C., Pellissier, L., Zimmermann, N., & Altermatt, F. (2025). Spatial biodiversity indicators and a composite index for conservation prioritization in Switzerland, bioRxiv. [10.5281/zenodo.15629783](https://doi.org/10.1101/2025.06.10.657334)
