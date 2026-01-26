@@ -27,7 +27,9 @@ Zonation also allows users to assign weights to input features to reflect their 
 R (Linux), all scripts can also be run under windows except for the prioritization (Zonation) runs.
 
 #### Input data
-Calculating the complementarity indicator (CI) is dependent on species habitat suitability maps derived from the [SDMapCH](https://doi.org/10.1038/s41597-025-06037-x) dataset. **Data is natively at 25 x 25 m resolution**, however, for example feasibility and copyright reason, the available data was uploaded on GitHub at **10 x 10 km resolution**. For further usages and perfect reproducibility, The SDMapCH native database (v1.3) and associated metadata are openly available on [Dryad](https://doi.org/10.5061/dryad.stqjq2cdk).
+Calculating the complementarity indicator (CI) is dependent on species habitat suitability maps derived from the [SDMapCH](https://doi.org/10.1038/s41597-025-06037-x) dataset. **Data is natively at 25 x 25 m resolution**, however, for example feasibility and copyright reason, the available data was uploaded on GitHub at **10 x 10 km resolution**.
+
+For further usages and perfect reproducibility, The SDMapCH native database (v1.3) and associated metadata are openly available on [Dryad](https://doi.org/10.5061/dryad.stqjq2cdk).
 
 Also note that v1.0 of the TraitCH dataset was here used. A second version is now available folowing the same link at [Zenodo](https://doi.org/10.5281/zenodo.15063844).
 
