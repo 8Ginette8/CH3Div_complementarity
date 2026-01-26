@@ -52,4 +52,4 @@ Grenié, M., Denelle, P., Tucker, C. M., Munoz, F., & Violle, C. (2017). funrar:
 Moilanen, A., Lehtinen, P., Kohonen, I., Jalkanen, J., Virtanen, E. A., & Kujala, H. (2022). Novel methods for spatial prioritization with applications in conservation, land use planning and ecological impact avoidance. Methods in Ecology and Evolution, 13(5), 1062-1072.
 
 ## Citation
-Adde, A., Boussange, V., Chauvier, Y., Dahito, M.-A., Früh, J., Graham, C., Pellissier, L., Zimmermann, N., & Altermatt, F. (2025). Spatial biodiversity indicators and a composite index for conservation prioritization in Switzerland, bioRxiv. [10.5281/zenodo.15629783](https://doi.org/10.1101/2025.06.10.657334)
+Adde, A., Boussange, V., Chauvier, Y., Dahito, M.-A., Früh, J., Graham, C., Pellissier, L., Zimmermann, N., & Altermatt, F. (2025). Spatial biodiversity indicators and a composite index for conservation prioritization in Switzerland, bioRxiv. [10.1101/2025.06.10.657334](https://doi.org/10.1101/2025.06.10.657334)
