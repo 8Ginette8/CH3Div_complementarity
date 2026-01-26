@@ -33,7 +33,7 @@ For further usages and perfect reproducibility, the SDMapCH native database (v1.
 
 Also note that v1.0 of the TraitCH dataset was here used. v2.0 is now available folowing the same link at [Zenodo](https://doi.org/10.5281/zenodo.15063844).
 
-## Scripts description
+## Methdods and pipeline
 - `open_r_windows.bat` and `open_r_maclinus.sh`: to open R in the right environment.
 
 From there, you can successively run the scripts:
