@@ -39,13 +39,13 @@ From there, you can successively run the scripts:
 - `4_CH3Div_Zonation5_(linux_only).R`: linux pipeline to run the prioritization (Zonation 5) runs.
 
 ## Reference
-Adde, A., Rey, PL., Külling, N. et al. SDMapCH: a Comprehensive database of >7,500 modelled species habitat suitability maps for Switzerland. Sci Data 12, 1752 (2025). https://doi.org/10.1038/s41597-025-06037-x
+Adde, A., Rey, PL., Külling, N. et al. SDMapCH: a Comprehensive database of >7,500 modelled species habitat suitability maps for Switzerland. Sci Data 12, 1752 (2025). [10.1038/s41597-025-06037-x](https://doi.org/10.1038/s41597-025-06037-x)
 
-Chauvier, Y., Adde, A., Bergamini, A., Rambold, G., Stofer, S., Graf, N., Gross, A., Blaser, S., Roberts, S. P. M., Potts, S., Casanelles Abella, J., Moretti, M., Nobis, M., Theurillat, J.-P., Hofmann, H., Hartwig, A.-M., Claude, F., Saucy, G., & Altermatt, F. (2025). TraitCH: a multi-taxa functional trait dataset for Switzerland and Europe [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15063844
+Chauvier, Y., Adde, A., Bergamini, A., Rambold, G., Stofer, S., Graf, N., Gross, A., Blaser, S., Roberts, S. P. M., Potts, S., Casanelles Abella, J., Moretti, M., Nobis, M., Theurillat, J.-P., Hofmann, H., Hartwig, A.-M., Claude, F., Saucy, G., & Altermatt, F. (2025). TraitCH: a multi-taxa functional trait dataset for Switzerland and Europe [Data set]. Zenodo. [10.5281/zenodo.15063844](https://doi.org/10.5281/zenodo.15063844)
 
 Grenié, M., Denelle, P., Tucker, C. M., Munoz, F., & Violle, C. (2017). funrar: An R package to characterize functional rarity. Diversity and Distributions, 23(12), 1365-1371.
 
 Moilanen, A., Lehtinen, P., Kohonen, I., Jalkanen, J., Virtanen, E. A., & Kujala, H. (2022). Novel methods for spatial prioritization with applications in conservation, land use planning and ecological impact avoidance. Methods in Ecology and Evolution, 13(5), 1062-1072.
 
 ## Citation
-Adde, A., Boussange, V., Chauvier, Y., Dahito, M.-A., Früh, J., Graham, C., Pellissier, L., Zimmermann, N., & Altermatt, F. (2025). Spatial biodiversity indicators and a composite index for conservation prioritization in Switzerland (0.9) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15629783
+Adde, A., Boussange, V., Chauvier, Y., Dahito, M.-A., Früh, J., Graham, C., Pellissier, L., Zimmermann, N., & Altermatt, F. (2025). Spatial biodiversity indicators and a composite index for conservation prioritization in Switzerland, bioRxiv. [https://doi.org/10.5281/zenodo.15629783](https://doi.org/10.1101/2025.06.10.657334)
