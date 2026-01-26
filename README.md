@@ -15,7 +15,7 @@ The CI indicator was generated using the spatial conservation planning software 
   />
 </p>
 
-> Complementarity importance score map for terrestrial species. Higher values indicate higher pixel contributions for overall complementarity, lowe values implies larger loss.
+> *>>Complementarity importance score map for terrestrial species. Higher values indicate higher pixel contributions for overall complementarity, lowe values implies larger loss.<<*
 
 The Core Area Zonation 2 (CAZ2) marginal loss rule algorithm was here applied. This algorithm gives a particular focus on improving the protection of the least represented species, while maintaining a reasonable level of conservation across all species. As a result, the method ensures strong representation of rare and range-restricted species by safeguarding their core habitats throughout the prioritization process. Zonation also allows users to assign weights to input features to reflect their relative importance in the prioritization. In our case, we incorporated species-level weights based on each species’ phylogenetic and functional uniqueness to give greater importance to those contributing disproportionately to evolutionary history and ecosystem functioning (Grenié et al. 2017), using the [Open Tree of Life](https://doi.org/10.1111/2041-210X.12593) and the [TraitCH](https://doi.org/10.5281/zenodo.15063844) dataset.
 
