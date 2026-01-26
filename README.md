@@ -31,7 +31,7 @@ Calculating the complementarity indicator (CI) is dependent on species habitat s
 
 For further usages and perfect reproducibility, the SDMapCH native database (v1.3) and associated metadata are openly available on [Dryad](https://doi.org/10.5061/dryad.stqjq2cdk).
 
-Also note that v1.0 of the TraitCH dataset was here used. A second version is now available folowing the same link at [Zenodo](https://doi.org/10.5281/zenodo.15063844).
+Also note that v1.0 of the TraitCH dataset was here used. v2.0 is now available folowing the same link at [Zenodo](https://doi.org/10.5281/zenodo.15063844).
 
 ## Scripts description
 - `open_r_windows.bat` and `open_r_maclinus.sh`: to open R in the right environment.
