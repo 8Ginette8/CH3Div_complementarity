@@ -45,7 +45,7 @@ From there, you can successively run the scripts:
 ## Reference
 Adde, A., Rey, PL., Külling, N. et al. SDMapCH: a Comprehensive database of >7,500 modelled species habitat suitability maps for Switzerland. Sci Data 12, 1752 (2025). [10.1038/s41597-025-06037-x](https://doi.org/10.1038/s41597-025-06037-x)
 
-Chauvier, Y., Adde, A., Bergamini, A., Rambold, G., Stofer, S., Graf, N., Gross, A., Blaser, S., Roberts, S. P. M., Potts, S., Casanelles Abella, J., Moretti, M., Nobis, M., Theurillat, J.-P., Hofmann, H., Hartwig, A.-M., Claude, F., Saucy, G., & Altermatt, F. (2025). TraitCH: a multi-taxa functional trait dataset for Switzerland and Europe [Data set]. Zenodo. [10.5281/zenodo.15063844](https://doi.org/10.5281/zenodo.15063844)
+Chauvier-Mendes, Y., Adde, A., Bergamini, A., Rambold, G., Stofer, S., Graf, N., Gross, A., Blaser, S., Roberts, S. P. M., Potts, S. G., Casanelles-Abella, J., Moretti, M., Nobis, M. P., Theurillat, J.-P., Hofmann, H., Hartwig, A.-M., Claude, F., Saucy, G., and Altermatt, F. (2026). TraitCH: a multi-taxa functional trait dataset for Switzerland and Europe, Earth Syst. Sci. Data Discuss. [preprint], [10.5194/essd-2025-754](https://doi.org/10.5194/essd-2025-754), in review, 2026.
 
 Grenié, M., Denelle, P., Tucker, C. M., Munoz, F., & Violle, C. (2017). funrar: An R package to characterize functional rarity. Diversity and Distributions, 23(12), 1365-1371.
 
