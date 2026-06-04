@@ -1,8 +1,6 @@
 
 # Complementarity (biodiversity) conservation for Switzerland <img src="https://speed2zero.ethz.ch/wp-content/uploads/2023/02/SPEED2ZERO_Logo_trans.png" width="300" align="right">
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15629783.svg)](https://doi.org/10.5281/zenodo.15629783)
-
 This repository contains the whole pipeline used to spatially estimate the importance of complementary biodiversity for conservation prioritization in Switzerland. The Complementarity Indicator (CI) measures the importance of a pixel based on its contribution to taxonomic, functional, and phylogenetic diversity ($\alpha$ component), as well as its distinct composition of species ($\beta$ component), within the context of the [SPEED2ZERO](https://speed2zero.ethz.ch/en/) project.
 
 The CI indicator was generated using the spatial conservation planning software Zonation 5.0 (Moilanen et al. 2022), and biodiversity feature inputs (see SDMapCH data below). Zonation operates through an iterative removal process in which, at each step, the pixel contributing least to overall biodiversity representation is eliminated and the remaining pixel values are recalculated. This produces a hierarchical prioritization of the landscape, with pixels most important for biodiversity conservation receiving the highest ranks.
